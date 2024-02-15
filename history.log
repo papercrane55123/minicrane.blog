@@ -1,0 +1,5521 @@
+    1  vi ~/.zshrc
+    2  cat ~/.zshrc | grep ZSH_THEME |grep -v "#"
+    3  vi ~/.zshrc
+    4  cat ~/.zshrc
+    5  cat  ~/.zshrc | grep ZSH_THEME |grep -v "#"
+    6  source ~/.zshrc
+    7  vi ~/.zshrc
+    8  git config --global core.editor "vim"
+    9  git config --global core.editor
+   10  view ~/.zshrc | grep ZSH_THEME |grep -v "#"
+   11  vi ~/.zshrc | grep ZSH_THEME |grep -v "#"
+   12  cd .ssh
+   13  cat  ~/.zshrc | grep ZSH_THEME |grep -v "#"
+   14  vi ~/.zshrc
+   15  clear
+   16  pwd
+   17  cd ..
+   18  pwd
+   19  id
+   20  sudo su wsl
+   21  sudo su - wsl
+   22  mkdir code
+   23  mkdir app
+   24  cd code
+   25  pwd
+   26  mkdir gittest
+   27  cd gittest/
+   28  cd ..
+   29  mkdir gittest2
+   30  clear
+   31  pwd
+   32  ls
+   33  cd gittest
+   34  git init
+   35  clear
+   36  cd ..
+   37  sudo apt update git
+   38  sudo apt update
+   39  clear
+   40  git version
+   41  cd gittest2
+   42  get init
+   43  git init
+   44  cd ..
+   45  git config --global core.editor "vim"
+   46  sudo add-apt-repository ppa:git-core/ppa -y
+   47  sudo apt-get update
+   48  sudo apt-get install git -y
+   49  git version
+   50  cd code
+   51  ls
+   52  mkdir gittest3
+   53  cd gittest3
+   54  git init
+   55  git config --global init.defaultBranch main
+   56  ls
+   57  cd
+   58  ls
+   59  cat ~/.gitconfig
+   60  cd code
+   61  mkdir gittest4
+   62  cd gittest4
+   63  ls
+   64  git init
+   65  cd
+   66  cd code/papercrane55123.github.io/
+   67  ls
+   68  git init
+   69  git status
+   70  tree
+   71  sudo apt install tree
+   72  clear
+   73  ls -al
+   74  ls -l
+   75  tree
+   76  tree.git
+   77  tree .git
+   78  top
+   79  topp
+   80  top
+   81  htop
+   82  git status
+   83  git add .
+   84  git status
+   85  git commit -m "first commit"
+   86  \\ngit commit -m "first commit"
+   87  git config user.email "gyeongmin@naver.com"
+   88  git --global config user.email "gyeongmin@naver.com"
+   89  git config --global user.name "gyeongmin"
+   90  wls -l -v
+   91  git commit -m "first commit"
+   92  git config --global user.name gyeongmin
+   93  git commit -m "first commit"
+   94  git config user.name gyeongmin55@naver.com
+   95  git status
+   96  ls
+   97  clear
+   98  cd .git
+   99  ls
+  100  view config
+  101  cd ../
+  102  cat .git/config
+  103  git remote add origin git@github.com:papercrane55123/papercrane55123.github.io.git
+  104  cat .git/config
+  105  git push -u origin main
+  106  git remote update
+  107  git remote add origin git@github.com:papercrane55123/papercrane55123.github.io.git
+  108  git push -u origin main
+  109  git remote add origin git@github.com:gyeongmin55/gyeongmin55.github.io.git
+  110  git push -u origin main
+  111  git commit -m "first commit"
+  112  tree
+  113  git remote -v
+  114  git remote remove origin
+  115  git remote -v
+  116  git remote add origin git@github.com:gyeongmin55/minicrane55123.github.io.git
+  117  git push -u origin main
+  118  git remote -v
+  119  git remote remove origin
+  120  git remote add origin git@github.com:gyeongmin55/papercrane55123.github.io.git
+  121  cd
+  122  cd ~/.ssh
+  123  ls
+  124  ssh-keygen -t rsa -C "gyeongmin55@naver.com" -f "id_rsa_gyeongmin55"
+  125  eval "$(ssh-agent -s)"
+  126  ssh-add ~/.ssh/id_rsa_gyeongmin55
+  127  ssh-add -l
+  128  code ~/.ssh/id_rsa_gyeongmin55.pub
+  129  cd
+  130  cd code/
+  131  cd
+  132  cd code
+  133  ls
+  134  cd papercrane55123.github.io
+  135  git push -u origin main
+  136  cd
+  137  cd ~/.ssh
+  138  ls
+  139  cat config
+  140  cd
+  141  cd code
+  142  cd papercrane55123.github.io
+  143  git remote add origub.com:papercrane55123/papercrane55123.github.io.git
+  144  git remote add origin git@github.com:papercrane55123/papercrane55123.github.io.git
+  145  ls
+  146  git status
+  147  git push -u origin main
+  148  ls
+  149  ls -al
+  150  cat .git/config
+  151  history
+  152  git remote remove origin
+  153  git remote add origin git@github.com:papercrane55123/papercrane55123.github.io.git
+  154  git push -u origin main
+  155  wsl -s -v
+  156  ls -a
+  157  ls -al
+  158  pwd
+  159  ls
+  160  ls -l
+  161  ls -al
+  162  ls -l -a
+  163  cd app
+  164  cd ~/.ssh
+  165  ls -al
+  166  vi  ~/.ssh/id_rsa_gyeongmin55.pub
+  167  vi config
+  168  ls -a
+  169  cd
+  170  vi config
+  171  cd .ssh
+  172  vi config
+  173  ls -al
+  174  cat id_rsa_gyeongmin00125.pub
+  175  cd
+  176  ls -al
+  177  cd .zsh
+  178  cd zshrc
+  179  cd .zshrc
+  180  cd ~/.zshrc
+  181  cd ssh
+  182  cd .ssg
+  183  cd .ssh
+  184  cd .zshrc
+  185  vi ~/.zshrc
+  186  whoami
+  187  cd
+  188  cd code
+  189  ls
+  190  vimtutor ko
+  191  ls -al
+  192  cp vimtutor
+  193  vimtutor
+  194  cd tmp
+  195  vimtutor
+  196  cd usr
+  197  vimtutor
+  198  vimtutor ko
+  199  git log
+  200  ls
+  201  cd code
+  202  cd
+  203  cd code
+  204  ls
+  205  cd papercrane55123.github.io
+  206  git log
+  207  cd
+  208  clear
+  209  cd code
+  210  ls
+  211  rm -rf gittest  gittest2  gittest3  gittest4
+  212  ls
+  213  cd papercrane55123.github.io
+  214  cd .git
+  215  git log
+  216  cd ..
+  217  clear
+  218  git branch 0.1.0/tag-a
+  219  cd .git
+  220  cd ..
+  221  git branch
+  222  clear
+  223  git checkout 0.1.0/tag-a
+  224  pwd
+  225  git status
+  226  vi ChangeLog.md
+  227  ls
+  228  vi chageLog.md
+  229  cd .md
+  230  vi qqq.md
+  231  vi ChangeLog.md
+  232  git add ChaneLog.md
+  233  git add ChangeLog.md
+  234  git commit
+  235  git push
+  236  git commit -m "입력"
+  237  git add
+  238  git config --global user.name gyeongmin
+  239  git status
+  240  git commit
+  241  git add
+  242  git add .
+  243  git commit
+  244  vi ChangeLog.md
+  245  ls
+  246  ls -a
+  247  git add .
+  248  git add ChangeLog.md
+  249  ls
+  250  vi ChangeLog.md
+  251  git add ChangeLog.md
+  252  git commit -m "yeah"
+  253  vi ChangeLog.md
+  254  git add ChangeLog.md
+  255  git commit -m "123"
+  256  git push
+  257  vi ChangeLog.md
+  258  git status
+  259  vi ChangeLog.md
+  260  cd
+  261  ls
+  262  pwd
+  263  ls -al
+  264  vi .gitconfig
+  265  apt uninstall vim
+  266  sudo apt remove vim
+  267  sudo apt install vim
+  268  cd code
+  269  ls
+  270  cd papercrane55123.github.io
+  271  ls
+  272  vi ChangeLog.md
+  273  cd
+  274  ls
+  275  ls -al
+  276  id
+  277  rm -rf .vimrc
+  278  ls
+  279  cd code/papercrane55123.github.io
+  280  ls
+  281  vim ChangeLog.md
+  282  wiche vim
+  283  wich vim
+  284  witch vim
+  285  wich vim
+  286  witch vim
+  287  ls
+  288  which vi
+  289  which vim
+  290  ls -l /usr/bin/vim
+  291  ls -l /usr/bin/vi
+  292  ls -l /etc/alternatives/vim
+  293  ls -l /etc/alternatives/vi
+  294  vi
+  295  cd
+  296  ls -a;
+  297  ls -al
+  298  vi .gitconfig
+  299  cd code
+  300  ls
+  301  cd papercrane55123.github.io
+  302  ls
+  303  vi a.log
+  304  ls
+  305  rm ChangeLog.md
+  306  rm ChangeLog.md\~
+  307  ls
+  308  vi ChangeLog.md
+  309  git add ChangeLog.md
+  310  git commit -m "123"
+  311  git push
+  312  git push --set-upstream origin 0.1.0/tag-a
+  313  vi .ssh/config
+  314  git push --set-upstream origin 0.1.0/tag-a
+  315  git status
+  316  rm .ChangeLog.md.un\~
+  317  git status
+  318  git rm .ChangeLog.md.un\~
+  319  git add .
+  320  git commit -m "rm temp"
+  321  git push
+  322  vi .ssh/config
+  323  cd .ssh
+  324  ls
+  325  cp config config.b.240122
+  326  vi config
+  327  ls
+  328  mv config.b.240122 config.err
+  329  ls
+  330  cd code/papercrane55123.github.io
+  331  git pull
+  332  git checkout -
+  333  /
+  334  cd
+  335  cd code/papercrane55123.github.io
+  336  \\ngit checkout -
+  337  git checkout -
+  338  이전것으로 되돌려줌
+  339  git branch 0.1.1/test-pr
+  340  git checkout 0.1.1/test-pr
+  341  \\nvi ChangeLog.md
+  342  git add.
+  343  git add .
+  344  git status
+  345  git commit -m"sad"
+  346  git push
+  347  git push --set-upstream origin 0.1.1/test-pr
+  348  git push
+  349  changelog.md를 만들자
+  350  cd code/papercrane55123.github.io
+  351  git branch 0.1.1/study-pr
+  352  md는 마크다운이란 뜻
+  353  git add .은 전부 넣겠다는 의미
+  354  cat ChangeLog.md
+  355  view .gitconfig
+  356  git commit -a로 치면 
+  357  pullrequest 지워도 보고 하기
+  358  #123
+  359  cd ..
+  360  cd papercrane55123.github.io
+  361  git branch main
+  362  git checkout main
+  363  git pull
+  364  git branch 0.1.0/tag-a
+  365  git checkout 0.1.0/tag-a
+  366  git pull
+  367  touch a.htm
+  368  vi log.log
+  369  rm log.log 도있고
+  370  ls
+  371  cat a.htm
+  372  git status
+  373  git add .
+  374  git commit -m "네이버 초기화면으로 이동하는 웹페이지 작성"
+  375  git pushn
+  376  git push
+  377  cat .gitconfig
+  378  ls -al
+  379  cat .git
+  380  cd .git
+  381  ls -a
+  382  cd ..
+  383  cd
+  384  cat .gitconfig
+  385  cd code/papercrane55123.github.io
+  386  git check
+  387  git checkout \\n/
+  388  git checkout /
+  389  git checkout -
+  390  cd code/papercrane55123.github.io
+  391  git pull
+  392  vi a.htm
+  393  git add .
+  394  git commit -m "22"
+  395  git push
+  396  vi a.htm
+  397  git add .
+  398  git commit -a
+  399  git push
+  400  cd
+  401  mkdir code2
+  402  cd code2
+  403  git clone git@github.com:papercrane55123/papercrane55123.github.io.git
+  404  ls
+  405  cd papercrane55123.github.io
+  406  ssh로 했음
+  407  ls -l
+  408  git branch -r
+  409  git checkout 0.1.0/tag-a
+  410  git pull
+  411  git checkout -t origin/0.1.0/tag-a
+  412  ls
+  413  sudo apt install apache2
+  414  ls
+  415  ls -a
+  416  view ports.conf
+  417  ls -a
+  418  cd /etc/apache2
+  419  ls
+  420  view /etc/apache2/ports.conf 
+  421  view apache2.conf
+  422  view conf-available
+  423  view magic
+  424  pwd
+  425  cd
+  426  cd /var/www/html
+  427  ls
+  428  cat index.html
+  429  view index.html
+  430  cd etc/apache2
+  431  cd
+  432  cd /etc/apache2 
+  433  ls -l
+  434  cd sites-enabled
+  435  ls
+  436  view 000-default.conf
+  437  pwd
+  438  ls -l
+  439  view 000-default.conf
+  440  sudo vi 000-default.conf
+  441  sudo cp 000-default.conf 000-default.conf.b.240122.1
+  442  sudo vi 000-default.conf
+  443  cd code2/papercrane55123.github.io
+  444  pwd
+  445  아파치 서버로 테스트 하기 위해 바꿔줬다.
+  446  # 아파치 서버로 테스트 하기 위해 바꿔줬다.
+  447  pwd
+  448  view 000-default.conf
+  449  ls
+  450  cd
+  451  cd etc/apache2
+  452  ce etc
+  453  cd etc
+  454  cd .etc
+  455  cd etc/apache2/
+  456  cd /etc/apache2/
+  457  cd 
+  458  cd /etc
+  459  cd apache2
+  460  ls
+  461  cd conf-available
+  462  ls
+  463  view charset.conf
+  464  view localized-error-pages.conf
+  465  view security.conf
+  466  view serve-cgi-bin.conf
+  467  cd ..
+  468  ls
+  469  cd mods-available
+  470  ls
+  471  view actions.conf
+  472  cd ..
+  473  ls
+  474  cd sites-enabled
+  475  ls
+  476  sudo vi 000-default.conf
+  477  sudo systemctl restart apache2
+  478  sudo vi 000-default.conf
+  479  cd code2
+  480  cd papercrane55123.github.io
+  481  pwd
+  482  \\ncd /var/www
+  483  ks
+  484  ls
+  485  # /home/wsl/code2/papercrane55123.git\nhub.io
+  486  /home/wsl/code2/papercrane55123.github.io/home/wsl/code2/papercrane55123.github.io/home/wsl/code2/papercrane55123.github.io
+  487  cd code2
+  488  cd papercrane55123.github.io
+  489  pwd
+  490  cd /var/www
+  491  pwd
+  492  cp -rf /home/wsl/code2/papercrane55123.github.io .
+  493  sudo  cp -rf /home/wsl/code2/papercrane55123.github.io .
+  494  ls
+  495  ls -l
+  496  view html
+  497  history
+  498  sudo systemctl restart apache2
+  499  cd /etc/apache2/
+  500  cd sites-enabled
+  501  ls
+  502  sudo vi 000-default.conf
+  503  cd code2
+  504  cd papercrane55123.github.io
+  505  sudo vi 000-default.conf
+  506  ls
+  507  rm -rf code2 testFile
+  508  ls
+  509  cd code
+  510  cd papercrane55123.github.io
+  511  git checkout main
+  512  git pull
+  513  git branch 0.2.0/search-console
+  514  git checkout 0.2.0/search-console
+  515  git status
+  516  rm googleb3fb7e8414d5ec42.html:Zone.Identifier
+  517  git status
+  518  vi ChangeLog.md
+  519  git status
+  520  git add .
+  521  git commit -a
+  522  git pusg
+  523  git push
+  524  git push --set-upstream origin 0.2.0/search-console
+  525  git push
+  526  git branch
+  527  vi ChageLog/md
+  528  vi ChageLog.md
+  529  git checkout -
+  530  git branch 0.3.0/naver-searchadvisor
+  531  git checkout 0.3.0/naver-searchadvisor
+  532  git status
+  533  rm -rf naver82c5b6294554fb186495155864899801.html:Zone.Identifier
+  534  git status
+  535  vi ChangeLog.md
+  536  git add .
+  537  git commit -a
+  538  git push
+  539  git status
+  540  ls
+  541  ls -a
+  542  view .gitconfig
+  543  cd .ssh
+  544  ls
+  545  ls -a
+  546  vi config
+  547  cd code/papercrane55123.github.io
+  548  git checkout -
+  549  git pull
+  550  git branch 0.4.0/SEO-NAVER
+  551  vi ChangeLog.md
+  552  git commit -a
+  553  git push
+  554  git status
+  555  git checkout 0.4.0/SEO-NAVER
+  556  vi ChangeLog.md
+  557  git pull
+  558  git branch --set-upstream-to=origin/<branch> 0.4.0/SEO-NAVER
+  559  cd code/papercrane55123.github.io
+  560  git checkout -
+  561  ls
+  562  git branch
+  563  ls
+  564  ls -a
+  565  rm -rf naver82c5b6294554fb186495155864899801.html
+  566  ls
+  567  git checkout -
+  568  git checkout 0.3.0/naver-searchadvisor
+  569  git checkout -
+  570  git checkout 0.3.0/naver-searchadvisor
+  571  git tree
+  572  git branch -d 0.3.0/naver-searchadvisor
+  573  sudo  git branch -d 0.3.0/naver-searchadvisor
+  574  git branch
+  575  git branch 0.3.0/naver-searchadvisor
+  576  git checkout 0.3.0/naver-searchadvisor
+  577  git pull
+  578  vi ChangeLog.md
+  579  git add .
+  580  vi ChangeLog.md
+  581  git commit -a
+  582  git push
+  583  git push --set-upstream origin 0.3.0/naver-searchadvisor
+  584  git pull
+  585  git push --set-upstream origin 0.3.0/naver-searchadvisor
+  586  git push
+  587  git push --set-upstream origin 0.3.0/naver-searchadvisor
+  588  git checkout -
+  589  sudo git branch -d 0.3.0/naver-searchadvisor
+  590  git branch
+  591  git branch -d 0.3.0/naver-searchadvisor
+  592  git branch -D 0.3.0/naver-searchadvisor
+  593  git branch
+  594  history
+  595  git checkout 0.3./naver-searchadvisor
+  596  git checkout 0.3.1/naver-searchadvisor
+  597  rm -rf naver82c5b6294554fb186495155864899801.html
+  598  vi ChangeLog.md
+  599  git add.
+  600  git add .
+  601  git commit -a
+  602  git pusg
+  603  git push
+  604  git push --set-upstream origin 0.3.1/naver-searchadvisor
+  605  git checkout -
+  606  cd code/papercrane55123.github.io
+  607  git branch 0.4.1/SEO-NAVER
+  608  git pull
+  609  git status
+  610  git checkout 0.4.1/SEO-NAVER
+  611  vi ChangeLog.md
+  612  git add .
+  613  git commit -a
+  614  git push
+  615  git push --set-upstream origin 0.4.1/SEO-NAVER
+  616  git push
+  617  ls
+  618  vi robots.txt
+  619  git add .
+  620  git commit -m "0.4.1 두번째 시도"
+  621  git push
+  622  vi robots.txt
+  623  git add .
+  624  git commit -m "세번째"
+  625  git push
+  626  vi index.html
+  627  vi a.htm
+  628  vi index.html
+  629  git add .
+  630  git commit -m "네번째"
+  631  git push
+  632  vi index.html
+  633  git checkout -
+  634  git checkout main
+  635  vi ChangeLog.md
+  636  git add .
+  637  git commit -a
+  638  git push
+  639  cd ls
+  640  ls
+  641  vi crane.png
+  642  git push
+  643  git add.
+  644  git add ,
+  645  git add .
+  646  git commit -a
+  647  git branch
+  648  git push
+  649  vi index.html
+  650  git branch 0.4.2/SEO-NAVER
+  651  git checkout -
+  652  git checkout 0.4.2/SEO-NAVER
+  653  vi index.html
+  654  vi ChangeLog.md
+  655  git add .
+  656  git commit -a
+  657  git push
+  658  git push --set-upstream origin 0.4.2/SEO-NAVER
+  659  git push
+  660  vi index.html
+  661  git add .
+  662  git commit -m "gg"
+  663  git push
+  664  wsl
+  665  cd code
+  666  cd papercrane55123.github.io
+  667  cat ~/.zshrc | grep ZSH_THEME |grep -v "#"
+  668  cd code/papercrane55123.github.io
+  669  git pull
+  670  git status
+  671  vi ChangeLog.md
+  672  git add .
+  673  git commit -m "good"
+  674  git push
+  675  clear
+  676  git branch 0.4.3/SEO-NAVER
+  677  git checkout 0.4.3/SEO-NAVER
+  678  vi index.html
+  679  cp index.html index.html.b.240123
+  680  git status
+  681  vi index.html
+  682  git add .
+  683  git commit -m "이미지 수정"
+  684  git push
+  685  git push --set-upstream origin 0.4.3/SEO-NAVER
+  686  git puosh
+  687  git push
+  688  git log
+  689  clrea
+  690  clear
+  691  git pull
+  692  git satus
+  693  git status
+  694  vi robots.txt
+  695  git add robots.txt
+  696  git commit -m "modify robots.txt"
+  697  git push
+  698  git checkout main
+  699  clear
+  700  git pull
+  701  git --help
+  702  clear
+  703  git pull
+  704  git branch 0.5.0/firebase
+  705  git checkout 0.5.0/firebase
+  706  vi ChangeLog.md
+  707  git status
+  708  git add ChangeLog.md
+  709  git commit -a
+  710  git push
+  711  git push --set-upstream origin 0.5.0/firebase
+  712  clear
+  713  vi index.html
+  714  git staus
+  715  git status
+  716  git add .
+  717  git status
+  718  git commit -m "add firebase script"
+  719  clear
+  720  npm install -g firebase-tools
+  721  curl -sL https://firebase.tools | bash
+  722  firebase login
+  723  npm install -g firebase-tools
+  724  firebase init
+  725  git status
+  726  ls -l
+  727  ls -ltr
+  728  ls -al
+  729  ls -al -tr
+  730  vi firebase.json
+  731  firebase deploy --only hosting:papercrane55123
+  732  view firebase.json
+  733  git status
+  734  view .gitignore
+  735  git add .
+  736  git commit -m "deploy dev STG"
+  737  git push
+  738  cd code/papercrane55123.github.io
+  739  git status
+  740  git version
+  741  vim version
+  742  ! history
+  743  rm README.txt
+  744  git add .
+  745  git commit -m "rm readme"
+  746  git pusg
+  747  git push
+  748  git checkout -
+  749  git pull
+  750  git push
+  751  git branch 0.6.0/css
+  752  git checkout 0.6.0/css
+  753  vi ChangeLog.md
+  754  git add .
+  755  git commit -a
+  756  git push
+  757  git push --set-upstream origin 0.6.0/css
+  758  firebase deploy
+  759  cd code/papercrane55123.github.io
+  760  mkdir cc2.html
+  761  rm cc2.html
+  762  rm -rf cc2.html
+  763  vi cc2.html
+  764  git status
+  765  vi ChangeLog.md
+  766  git add
+  767  git add .
+  768  git commit -m "css html study"
+  769  git push
+  770  vi resume.html
+  771  git push
+  772  vi resume.html
+  773  vi style.css
+  774  git add .
+  775  git commit -a "for resume"
+  776  git commit -m "for resume"
+  777  git push
+  778  vi style.css
+  779  git branch 0.7.0/resume
+  780  git checkout 0.7.0/resume
+  781  git status
+  782  pwd
+  783  code .
+  784  cd code/papercrane55123.github.io
+  785  git status
+  786  git add .
+  787  git commit -m "240123 22:00"
+  788  git push
+  789  git push --set-upstream origin 0.7.0/resume
+  790  cd code
+  791  cd papercrane55123.github.io
+  792  git status
+  793  vi resume.html
+  794  exit
+  795  cd code/papercrane55123.github.io
+  796  git status
+  797  git add .
+  798  git pull
+  799  git status
+  800  git commit -m "resume update"
+  801  git push
+  802  git pull
+  803  code css.html
+  804  code style.css
+  805  code resume.html
+  806  clear
+  807  cd
+  808  node
+  809  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  810  command -v nvm
+  811  nvm --version
+  812  nvm ls
+  813  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  814  cd .nvm
+  815  nvm ls
+  816  cd
+  817  .nvm ls
+  818  cd .nvm
+  819  ls
+  820  ls -l
+  821  cd
+  822  nvm install --its
+  823  sudo apt-get install curl
+  824  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  825  command -v nvm
+  826  nvm ls
+  827  .nvm -- version
+  828  nvm install --lts
+  829  cd /home/wsl/.zshrc
+  830  cd .zshrc
+  831  vi .zshrc
+  832  cd ~/.zshrc
+  833  ls -a
+  834  cd .vnm
+  835  cd .nvm
+  836  nvm uninstall --lts
+  837  cd
+  838  vi .zshrc
+  839  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  840  vi .zshrc
+  841  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  842  vi .zshrc
+  843  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  844  exit
+  845  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  846  vi .zshrc
+  847  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  848  exit
+  849  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  850  vi .zshrc
+  851  source ~/.zshrc
+  852  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  853  exit
+  854  vi .zshrc
+  855  mkdir NodeTest
+  856  ls
+  857  cd NodeTest
+  858  nvm use node
+  859  nvm install node
+  860  nvm install --lts
+  861  nvm use --lts
+  862  nvm ls-remote
+  863  ls -al
+  864  nvm --version
+  865  cd
+  866  nvm --version
+  867  nvm ls
+  868  node
+  869  vi README.md
+  870  npm i pysatellite
+  871  ls
+  872  pysatellite
+  873  cd code
+  874  ls
+  875  npm i pysatellite
+  876  ls
+  877  npm i -g pysatellite
+  878  pysatellite
+  879  ls
+  880  mkdir pysatellite
+  881  cd pysatellite
+  882  npm init
+  883  touch index.js
+  884  touch README.md
+  885  ls
+  886  minicrane
+  887  pysatellite
+  888  vi index.js
+  889  pysatellite
+  890  minicrane
+  891  (pysatellite) minicrane
+  892  (pysatellite)
+  893  npm docs axios
+  894  pysatellite
+  895  cd code
+  896  pysatellite
+  897  cd ..
+  898  ls
+  899  rm pysatellite
+  900  rm -rf pysatellite
+  901  mkdir pysatellite
+  902  cd pysatellite
+  903  pysatellite
+  904  ls
+  905  touch index.js
+  906  touch README.md
+  907  ls
+  908  vi index.js
+  909  minicrane
+  910  npm install -g minicrane
+  911  git init
+  912  git commit -m "first commit"
+  913  git config --global user.email "gyeongmin55@naver.com"
+  914  git commit -m "first commit"
+  915  git config --global user.name "papercrane55123"
+  916  git commit -m "first commit"
+  917  git add .
+  918  git commit -m "first commit"
+  919  git push
+  920  git push main
+  921  git branch 0.1.0/repo
+  922  git push 0.1.0/repo
+  923  git checkout 0.1.0/repo
+  924  git push
+  925  git push --set-upstream 0.1.0/repo main
+  926  git status
+  927  git push --set-upstream 0.1.0/repo
+  928  git checkout -
+  929  git remote add origin git@github.com:papercrane55123/pysatellite.git
+  930  git branch -M main
+  931  git push -u origin main
+  932  ls -a
+  933  vi .gitignore
+  934  vi README.md
+  935  vi index.js
+  936  vi package.json
+  937  git add .
+  938  git commit -m "ok"
+  939  git push
+  940  cd..
+  941  cd ..
+  942  mkdir pysatellite2
+  943  cd pysatellite2
+  944  git clone git@github.com:papercrane55123/pysatellite.git
+  945  ls
+  946  cd pysatellite
+  947  ls
+  948  vi package.json
+  949  cd code
+  950  cd
+  951  cd code/pysatellite
+  952  ls
+  953  ls -a
+  954  vi package.json
+  955  vi index.js
+  956  npm install -g ./
+  957  git status
+  958  npm list -g
+  959  minicrane
+  960  pysatellite
+  961  vi index.js
+  962  vi package.json
+  963  minicrane
+  964  pysatellite
+  965  vi package.json
+  966  minicrane
+  967  pysatellite
+  968  vi package.json
+  969  git add .
+  970  git commit -m "check"
+  971  git push
+  972  pysatellite
+  973  minicrane
+  974  vi index.js
+  975  vi package.json
+  976  minicrane
+  977  pysatellite
+  978  view index.js
+  979  ls
+  980  view index.js
+  981  cd ~/usr
+  982  cd usr
+  983  ls -a
+  984  cd code
+  985  ls -a
+  986  cd pysatellite
+  987  ls -a
+  988  node
+  989  git branch 0.1.1/fdeploy
+  990  git checkout 0.1.1/fdeploy
+  991  vi package.json
+  992  npm list -g
+  993  git add package.json
+  994  ls
+  995  npm list -g
+  996  git commit -a
+  997  git push
+  998  git push --set-upstream origin 0.1.1/fdeploy
+  999  npm login
+ 1000  npm publish
+ 1001  minicrane
+ 1002  pysatellite
+ 1003  vi README.md
+ 1004  ls
+ 1005  vi index.js
+ 1006  pysatellite
+ 1007  vi index.js
+ 1008  pysatellite
+ 1009  vi index.js
+ 1010  pysatellite
+ 1011  vi index.js
+ 1012  pysatellite
+ 1013  vi index.js
+ 1014  pysatellite
+ 1015  vi index.js
+ 1016  pysatellite
+ 1017  vi index.js
+ 1018  pysatellite
+ 1019  vi index.js
+ 1020  pysatellite
+ 1021  vi index.js
+ 1022  pysatellite
+ 1023  vi README.md
+ 1024  git add .
+ 1025  git commit -a
+ 1026  git branch 0.2.0/fdeploy
+ 1027  git checkout 0.2.0/fdeploy
+ 1028  git commit -a
+ 1029  git push
+ 1030  git push --set-upstream origin 0.2.0/fdeploy
+ 1031  npm publisg
+ 1032  npm publish
+ 1033  npm login
+ 1034  npm publish
+ 1035  npm list -g
+ 1036  npm install -g ./
+ 1037  npm list -g
+ 1038  ls
+ 1039  vi package.json
+ 1040  ls
+ 1041  npm list -g
+ 1042  npm publish
+ 1043  git add .
+ 1044  git status
+ 1045  git commit -m "go"
+ 1046  git push
+ 1047  vi index.js 
+ 1048  node index.js
+ 1049  minicrane
+ 1050  view package.json
+ 1051  code 
+ 1052  source .zshrc
+ 1053  vi index.js
+ 1054  minicrane
+ 1055  minicrane 1 2 3
+ 1056  vi index.js
+ 1057  minicrane 1 2 3
+ 1058  vi index.js
+ 1059  minicrane 1 2 3
+ 1060  minicrane 김 이 박
+ 1061  vi index.js
+ 1062  minicrane 김 이 박
+ 1063  vi index.js
+ 1064  minicrane 김 이 박
+ 1065  vi index.js
+ 1066  minicrane 김 이 박
+ 1067  vi index.js
+ 1068  minicrane 김 이 박
+ 1069  vi index.js
+ 1070  git add .
+ 1071  git commit -m "0.2.0 final"
+ 1072  git push
+ 1073  npm public
+ 1074  npm publish
+ 1075  vi package.json
+ 1076  npm publish
+ 1077  git status
+ 1078  git restore .
+ 1079  vi package.json
+ 1080  cd code
+ 1081  ls
+ 1082  cd pysatellite
+ 1083  minicrane
+ 1084  vi index.js
+ 1085  minicrane
+ 1086  vi index.js
+ 1087  htop
+ 1088  vi index.js
+ 1089  # cat, tail, tail -n 1 을 사용해서 확인가능하다
+ 1090  # vim 안에서는 !node s.js로 확인 가능하다
+ 1091  # vim 안에서는 !node s.js로 결과 확인 할 수 있다.
+ 1092  vi test.js
+ 1093  node
+ 1094  node test.js
+ 1095  vi test.js
+ 1096  node test.js
+ 1097  vi test.js
+ 1098  node test.js
+ 1099  vi test.js
+ 1100  node test.js
+ 1101  vi test.js
+ 1102  minicrane 1 2 3
+ 1103  vi index.js
+ 1104  minicrane
+ 1105  minicrane 1 2 3
+ 1106  vi index.js
+ 1107  minicrane 1 2 3
+ 1108  vi index.js
+ 1109  vi test.js
+ 1110  vi test2.js
+ 1111  node test2.js
+ 1112  vi test2.js
+ 1113  vi test3.js
+ 1114  node test3.js
+ 1115  vi test3.js
+ 1116  node test3.js
+ 1117  vi test3.js
+ 1118  vi test4.js
+ 1119  node test4.js
+ 1120  vi test4.js
+ 1121  node test4.js
+ 1122  vi test5.js
+ 1123  node test5.js
+ 1124  vi test5.js
+ 1125  node test5.js
+ 1126  vi test5.js
+ 1127  node test5.js
+ 1128  vi test5.js
+ 1129  node test5.js
+ 1130  ls
+ 1131  cd code
+ 1132  cd
+ 1133  cd code
+ 1134  cd pysatellite
+ 1135  node test5.js
+ 1136  vi test5.js
+ 1137  node test5.js
+ 1138  vi test5.js
+ 1139  node test5.js
+ 1140  vi test6.js
+ 1141  node test6.js
+ 1142  vi test6.js
+ 1143  node test6.js
+ 1144  vi test6.js
+ 1145  node test6.js
+ 1146  cd
+ 1147  minicrane
+ 1148  node test.js
+ 1149  node test2.js
+ 1150  cd code/pysatellite
+ 1151  node test6.js
+ 1152  node test5.js
+ 1153  vi test6.js
+ 1154  node test6.js
+ 1155  vi test6.js
+ 1156  node test6.js
+ 1157  vi test6.js
+ 1158  node test6.js
+ 1159  vi test6.js
+ 1160  node test6.js
+ 1161  vi test6.js
+ 1162  node test6.js
+ 1163  vi test6.js
+ 1164  node test6.js
+ 1165  vi test6.js
+ 1166  node test6.js
+ 1167  vi test6.js
+ 1168  node test6.js
+ 1169  vi test6.js
+ 1170  node test6.js
+ 1171  vi test6.js
+ 1172  node test6.js
+ 1173  vi test6.js
+ 1174  node test6.js
+ 1175  vi test6.js
+ 1176  node test6.js
+ 1177  vi test6.js
+ 1178  vi test7.js
+ 1179  node test7.js
+ 1180  vi test7.js
+ 1181  node test7.js
+ 1182  vi test7.js
+ 1183  vi test8.js
+ 1184  node test8.js
+ 1185  :q!
+ 1186  vi test8.js
+ 1187  vi test9.js
+ 1188  node test9.js
+ 1189  vi test9.js
+ 1190  node test9.js
+ 1191  vi test9.js
+ 1192  node test9.js
+ 1193  vi test9.js
+ 1194  node test9.js
+ 1195  vi test9.js
+ 1196  node test9.js
+ 1197  vi test9.js
+ 1198  node test9.js
+ 1199  vi test9.js
+ 1200  node test9.js
+ 1201  vi test9.js
+ 1202  node test9.js
+ 1203  vi test9.js
+ 1204  node test9.js
+ 1205  vi test9.js
+ 1206  vi test10.js
+ 1207  node test10.js
+ 1208  vi test10.js
+ 1209  node test10.js
+ 1210  vi test10.js
+ 1211  node test10.js
+ 1212  vi test10.js
+ 1213  node test10.js
+ 1214  vi test10.js
+ 1215  node test10.js
+ 1216  vi test10.js
+ 1217  node test10.js
+ 1218  vi test10.js
+ 1219  node test10.js
+ 1220  vi test10.js
+ 1221  node test10.js
+ 1222  vi test10.js
+ 1223  node test10.js
+ 1224  vi test10.js
+ 1225  node test10.js
+ 1226  vi test10.js
+ 1227  node test10.js
+ 1228  vi test10.js
+ 1229  node test10.js
+ 1230  vi test10.js
+ 1231  node test10.js
+ 1232  vi test10.js
+ 1233  node test10.js
+ 1234  vi test10.js
+ 1235  node test10.js
+ 1236  vi test10.js
+ 1237  node test10.js
+ 1238  vi test10.js
+ 1239  node test10.js
+ 1240  vi test10.js
+ 1241  node test10.js
+ 1242  vi test10.js
+ 1243  node test10.js
+ 1244  vi test10.js
+ 1245  node test10.js
+ 1246  vi test10.js
+ 1247  minicrane
+ 1248  minicrane 1 2 3
+ 1249  vi test10.js
+ 1250  node test10.js
+ 1251  vi package.json
+ 1252  vi README.md
+ 1253  ls
+ 1254  vi index.js
+ 1255  vi README.md
+ 1256  git add .
+ 1257  git status
+ 1258  git restore -- staged
+ 1259  git restore -- staged .
+ 1260  git restore --staged .
+ 1261  git add README.md index.js
+ 1262  git commit -m "g"
+ 1263  git push
+ 1264  git branch 0.2.1/fdeploy
+ 1265  git checkout 0.2.1/fdeploy
+ 1266  git add test10.js
+ 1267  git commit -a
+ 1268  git push
+ 1269  git push --set-upstream origin 0.2.1/fdeploy
+ 1270  git branch 0.3.0/handcoding
+ 1271  git checkout 0.3.0/handcoding
+ 1272  git status
+ 1273  git commit -a
+ 1274  ls
+ 1275  vi ChangeLog.md
+ 1276  git add ChangeLog.md
+ 1277  git commit -a
+ 1278  git push
+ 1279  git push --set-upstream origin 0.3.0/handcoding
+ 1280  git push
+ 1281  git status
+ 1282  git add KakaoTalk_20240125_153659509.jpg
+ 1283  git commit -m "jpg commit"
+ 1284  git push
+ 1285  vi test11.js
+ 1286  node test11.js
+ 1287  vi test11.js
+ 1288  node test11.js
+ 1289  vi test11.js
+ 1290  node test11.js
+ 1291  vi test11.js
+ 1292  node test11.js
+ 1293  vi test11.js
+ 1294  vi test12.js
+ 1295  node test12.js
+ 1296  vi test12.js
+ 1297  vi test13.js
+ 1298  node test13.js
+ 1299  vi test13.js
+ 1300  node test13.js
+ 1301  vi test13.js
+ 1302  node test13.js
+ 1303  vi test13.js
+ 1304  node test13.js
+ 1305  vi test13.js
+ 1306  node test13.js
+ 1307  vi test13.js
+ 1308  node test13.js
+ 1309  vi test13.js
+ 1310  node test13.js
+ 1311  vi test13.js
+ 1312  node test13.js
+ 1313  vi test13.js
+ 1314  node test13.js
+ 1315  vi test14.js
+ 1316  node test14.js
+ 1317  vi test14.js
+ 1318  vi test15.js
+ 1319  node test15.js
+ 1320  vi test15.js
+ 1321  node test15.js
+ 1322  vi test15.js
+ 1323  vi test16.js
+ 1324  node test15.js
+ 1325  node test16.js
+ 1326  node test15.js
+ 1327  vi test16.js
+ 1328  ls
+ 1329  vi index.js
+ 1330  vi README.md
+ 1331  vi index.js
+ 1332  vi README.md
+ 1333  vi index.js
+ 1334  cd
+ 1335  cd code/pysatellite
+ 1336  node index.js
+ 1337  minicarane 1 2 3
+ 1338  minicrane 1 2 3
+ 1339  node index.js
+ 1340  vi index.js
+ 1341  node index.js
+ 1342  minicrane 1 2 3
+ 1343  vi index.js
+ 1344  minicrane 1 2 3
+ 1345  vi index.js
+ 1346  minicrane 1 2 3
+ 1347  vi index.js
+ 1348  minicrane 1 2 3
+ 1349  vi index.js
+ 1350  minicrane 1 2 3
+ 1351  vi index.js
+ 1352  minicrane 1 2 3
+ 1353  vi index.js
+ 1354  minicrane 1 2 3
+ 1355  vi index.js
+ 1356  minicrane 1
+ 1357  minicrane 
+ 1358  minicrane 1 2 3
+ 1359  vi index.js
+ 1360  minicrane 1 2 3
+ 1361  minicrane 1 
+ 1362  vi index.js
+ 1363  minicrane 1 
+ 1364  vi index.js
+ 1365  minicrane 1 
+ 1366  minicrane 1 2
+ 1367  minicrane 1 2 3
+ 1368  minicrane 1 
+ 1369  minicrane
+ 1370  vi index.js
+ 1371  minicrane
+ 1372  minicrane 1 2 3
+ 1373  vi index.js
+ 1374  git status
+ 1375  vi README.md
+ 1376  git status
+ 1377  vi index.js
+ 1378  minicrane 1 2 3
+ 1379  git add index.js README.md
+ 1380  git commit -m "code + readme update"
+ 1381  git push
+ 1382  vi package.json
+ 1383  rm test.js test4.js test10.js test12.js test13.js test14.js test11.js test15.js test16.js test6.js test2.js test5.js test3.js test8.js test7.js test9.js
+ 1384  ls
+ 1385  npm publish
+ 1386  vi README.md
+ 1387  vi package.json
+ 1388  npm publish
+ 1389  cd code/pysatellite
+ 1390  git pull
+ 1391  ls -l
+ 1392  vi test.js
+ 1393  node test.js
+ 1394  vi test.js
+ 1395  vi test1.js
+ 1396  node test
+ 1397  node test1.js
+ 1398  vi test1.js
+ 1399  node test1.js
+ 1400  vi test1.js
+ 1401  node test1.js
+ 1402  vi test1.js
+ 1403  node test1.js
+ 1404  vi test1.js
+ 1405  node test1.js
+ 1406  vi test1.js
+ 1407  node test1.js
+ 1408  vi test.js
+ 1409  node test.js
+ 1410  vi test.js
+ 1411  git status
+ 1412  ls -l
+ 1413  ls -a
+ 1414  view .index.js.swp
+ 1415  rm .index.js.swp
+ 1416  ls -a
+ 1417  vi test2.js
+ 1418  node test2.js
+ 1419  vi test2.js
+ 1420  vi test3.js
+ 1421  node test3.js
+ 1422  vi test4.js
+ 1423  node test4.js
+ 1424  vi test4.js
+ 1425  node test4.js
+ 1426  vi test4.js
+ 1427  node test4.js
+ 1428  vi test4.js
+ 1429  node test4.js
+ 1430  vi test4.js
+ 1431  vi test5.js
+ 1432  node test5.js
+ 1433  vi test5.js
+ 1434  node test5.js
+ 1435  vi test4.js
+ 1436  node test4.js
+ 1437  vi test4.js
+ 1438  vi test5.js
+ 1439  sudo apt-get update
+ 1440  sudo apt-get install openjdk-11-jdk
+ 1441  which java
+ 1442  java -version
+ 1443  vi ~/.zshrc
+ 1444  ls -a
+ 1445  rm .zshrc.swp
+ 1446  vi ~/.zshrc
+ 1447  which java
+ 1448  which vim
+ 1449  which vi
+ 1450  ls -l /usr/bin/vi
+ 1451  ls -l /etc/alternatives/vi
+ 1452  ls -l /usr/bin
+ 1453  ls -l /usr/bin/vi
+ 1454  ls -l /etc/alternatives/vi
+ 1455  ls -l /usr/bin/vim
+ 1456  ls -l /etc/alternatives/vim
+ 1457  pwd
+ 1458  mkdir temp
+ 1459  cd temp
+ 1460  ls
+ 1461  r,log
+ 1462  r.log
+ 1463  ls r.log
+ 1464  ls
+ 1465  touch original.conf
+ 1466  echo "aaaaaaaaaaaaaaa" > original.conf
+ 1467  cat original.conf
+ 1468  echo "bbbbbbbbbbbbbbbbbbb" > original.conf
+ 1469  cat original.conf
+ 1470  # 누적하고 싶을땐
+ 1471  echo "bbbbbbbbbbbbbbbbbbb" >> original.conf
+ 1472  cat original.conf
+ 1473  ls -l
+ 1474  echo "bbbbbbbbbbbbbbbbbbb" >> original.conf
+ 1475  cat original.conf
+ 1476  ls -l
+ 1477  cp original.conf copy.conf
+ 1478  ls -l
+ 1479  ln -s ./original.conf link.conf
+ 1480  ls -l
+ 1481  cat link.conf
+ 1482  echo "bbbbbaaaaaaaaaaaaa" >> original.conf
+ 1483  ls -l
+ 1484  tail link.conf
+ 1485  tail -n 3  link.conf
+ 1486  # 마지막에서 3개 줄 출력
+ 1487  tail -f link.conf
+ 1488  cat link.conf
+ 1489  cat link.conf | grep b
+ 1490  cat link.conf | grep b | wc l
+ 1491  cat link.conf | grep b | wc
+ 1492  cat link.conf | grep b | wc b
+ 1493  cd
+ 1494  which java
+ 1495  ls -l /usr/bin/java
+ 1496  ls -l /etc/alternatives/vim
+ 1497  ls -l /etc/alternatives/java
+ 1498  vi ~/.zshrc
+ 1499  tail -n 3 ~/.zshrc
+ 1500  echo $JAVA_HOME
+ 1501  ls -l ~/.zshrc
+ 1502  source .zshrc
+ 1503  echo $JAVA_HOME
+ 1504  cd temp
+ 1505  cat link.conf | grep b | wc l
+ 1506  cat link.conf | grep b | wc i
+ 1507  cat link.conf | grep b | wc line
+ 1508  cat link.conf | grep b | wc -l
+ 1509  cd
+ 1510  pwd
+ 1511  cd app
+ 1512  ls
+ 1513  tree
+ 1514  mkdir ng
+ 1515  tree
+ 1516  cd ng
+ 1517  mkdir controller
+ 1518  tree
+ 1519  cd
+ 1520  cd app
+ 1521  tree
+ 1522  cd ng/controller
+ 1523  rm -rf ngrinder-controller-3.5.8.war:Zone.Identifier
+ 1524  cd app
+ 1525  cd ng
+ 1526  mkdir ngrinder-agent
+ 1527  pew
+ 1528  pwd
+ 1529  ls
+ 1530  tree -L
+ 1531  tree 0l
+ 1532  tree
+ 1533  tar -xvf ngrinder-agent-3.5.8-localhost.tar
+ 1534  ls
+ 1535  ls-a
+ 1536  ls -a
+ 1537  tree
+ 1538  ls ~/temp
+ 1539  mv ngrinder-agent-3.5.8-localhost.tar ~/temp
+ 1540  ls -l
+ 1541  ls ~/temp
+ 1542  cd ngrinder-agent
+ 1543  ls
+ 1544  view run_agent.bat
+ 1545  ls -l
+ 1546  ls -al
+ 1547  cd ..
+ 1548  ls
+ 1549  ls -l
+ 1550  ls -al
+ 1551  tree
+ 1552  cd ngrinder-agent
+ 1553  ls
+ 1554  ls run_agent.sh
+ 1555  java -jar run_agent.sh
+ 1556  ./run_agent.sh
+ 1557  ped
+ 1558  pwd
+ 1559  ls -l|grep ng
+ 1560  ls -l | grep ng
+ 1561  ls -al | grep ng
+ 1562  cd .ngrinder_agent
+ 1563  ls
+ 1564  cat pid
+ 1565  cd log
+ 1566  pwd
+ 1567  ls
+ 1568  ls -l
+ 1569  cat agent.log
+ 1570  tail -f agent.log
+ 1571  sudo systemctl restart apache2
+ 1572  sudo systemctl status apache2
+ 1573  sudo systemctl start apache2
+ 1574  sudo apt install net-tools
+ 1575  ifconfig -a | grep inet | grep broadcast
+ 1576  ifconfig -a
+ 1577  cd var
+ 1578  cd ~/.var
+ 1579  cd app
+ 1580  cd var
+ 1581  cd var/log/apache2
+ 1582  cd
+ 1583  cd var/log/apache2
+ 1584  cd ~/.apache2
+ 1585  cd ~/apache2
+ 1586  cd /var/log/apache2
+ 1587  ls -l
+ 1588  tr
+ 1589  ls -ltr
+ 1590  tail -f access.log
+ 1591  tail -f other_vhosts_access.log
+ 1592  tail -f access.log
+ 1593  ls -ltr
+ 1594  tail -f other_vhosts_access.log
+ 1595  tail -f access.log
+ 1596  htop
+ 1597  top
+ 1598  ls
+ 1599  ls -l
+ 1600  ls -ltr
+ 1601  cat access.log | grep 200
+ 1602  cat access.log | grep 200 | wc -l
+ 1603  cat access.log | grep -v 200
+ 1604  ls -al
+ 1605  cd /usr
+ 1606  ls -l
+ 1607  cd bin
+ 1608  ls -l
+ 1609  cd apache2
+ 1610  cd
+ 1611  cd /usr/sbin/apache2
+ 1612  cd code/papercrane55123.github.io
+ 1613  vi index.html
+ 1614  source index.html
+ 1615  git pull
+ 1616  git commit -m "image +"
+ 1617  git add .
+ 1618  git commit -m "image +"
+ 1619  git push
+ 1620  vi index.html
+ 1621  sudo systemctl restart apache2
+ 1622  vi index.html
+ 1623  sudo systemctl restart apache2
+ 1624  vi index.html
+ 1625  cd /var/www
+ 1626  ls
+ 1627  cd papercrane55123.github.io
+ 1628  ls
+ 1629  vi index.html
+ 1630  sudo vi index.html
+ 1631  cd images
+ 1632  mv pic01.jpg /var/www/papercrane55123.github.io/images
+ 1633  cd images
+ 1634  rm -rf pic01.jpg
+ 1635  sudo rm -rf pic01.jpg
+ 1636  mv pic01.jpg /var/www/papercrane55123.github.io/images
+ 1637  sueo  mv pic01.jpg /var/www/papercrane55123.github.io/images
+ 1638  sudo  mv pic01.jpg /var/www/papercrane55123.github.io/images
+ 1639  sudo vi index.html
+ 1640  cd ..
+ 1641  sudo vi index.html
+ 1642  sudo systemctl restart apache2
+ 1643  sudo vi index.html
+ 1644  sudo systemctl restart apache2
+ 1645  sudo vi index.html
+ 1646  cd images
+ 1647  cd ..
+ 1648  sudo vi index.html
+ 1649  cd images
+ 1650  sudo rename pic01 01 pic01.jpg
+ 1651  ls -l
+ 1652  rename pic p pic01.jpg
+ 1653  cd ..
+ 1654  sudo vi index.html
+ 1655  sudo systemctl restart apache2
+ 1656  sudo vi index.html
+ 1657  sudo systemctl restart apache2
+ 1658  cd code
+ 1659  ls
+ 1660  mv 11.jpg /var/www/papercrane55123.github.io/images
+ 1661  sudo mv 11.jpg /var/www/papercrane55123.github.io/images
+ 1662  sudo vi index.html
+ 1663  sudo systemctl restart apache2
+ 1664  sudo vi index.html
+ 1665  sudo systemctl restart apache2
+ 1666  sudo systemctl stop  apache2
+ 1667  sudo systemctl restart apache2
+ 1668  cd
+ 1669  cd app
+ 1670  ls
+ 1671  cd ng
+ 1672  ls
+ 1673  cd ngrinder-agent
+ 1674  tree
+ 1675  cd ..
+ 1676  tree
+ 1677  cd
+ 1678  /
+ 1679  cd /apache2
+ 1680  cd /.apache2
+ 1681  cd
+ 1682  cd etc/apache2
+ 1683  cd /etc/apache2
+ 1684  ls
+ 1685  cd /var/log/apache2
+ 1686  ls
+ 1687  cat access.log | grep -v 200
+ 1688  cat access.log | grep -v 200 | wc -l
+ 1689  cd app
+ 1690  ls
+ 1691  cd
+ 1692  cd code
+ 1693  ls
+ 1694  cd pysatellite
+ 1695  ls
+ 1696  mv test1.js test1.js.d
+ 1697  ls
+ 1698  cd
+ 1699  cd /etc/apache2/
+ 1700  cd mods-enabled
+ 1701  apache2ctl -v
+ 1702  apache2ctl -V
+ 1703  ls -l *event*
+ 1704  cd ../mods-available
+ 1705  ls *event*.conf
+ 1706  pwd
+ 1707  sudo cp mpm_event.conf mpm_event.conf.backup
+ 1708  ls
+ 1709  sudo vi mpm_event.conf
+ 1710  sudo systemctl restart apche2
+ 1711  sudo systemctl restart apache2
+ 1712  sudo vi mpm_event.conf
+ 1713  cd code
+ 1714  ls
+ 1715  cd pysatellite
+ 1716  ls
+ 1717  rm test.js test1.js.d test2.js test3.js test4.js test5.js
+ 1718  ls
+ 1719  vi test.js
+ 1720  node test.js
+ 1721  vi test.js
+ 1722  node test.js
+ 1723  vi test.js
+ 1724  node test.js
+ 1725  vi test8.js
+ 1726  vi test.js
+ 1727  vi test1.js
+ 1728  node test1.js
+ 1729  vi test1.js
+ 1730  node test1.js
+ 1731  vi test1.js
+ 1732  node test1.js
+ 1733  vi test1.js
+ 1734  node test1.js
+ 1735  vi test1.js
+ 1736  vi test2.js
+ 1737  node test2.js
+ 1738  vi test2.js
+ 1739  vi test3.js
+ 1740  node test3.js
+ 1741  vi test3.js
+ 1742  node test3.js
+ 1743  vi test3.js
+ 1744  vi test4.js
+ 1745  node test4.js
+ 1746  vi test4.js
+ 1747  vi test5.js
+ 1748  node test5.js
+ 1749  vi test5.js
+ 1750  node test5.js
+ 1751  vi test5.js
+ 1752  vi test6.js
+ 1753  node test6.js
+ 1754  vi test6.js
+ 1755  node test5.js
+ 1756  vi test5.js
+ 1757  vi test7.js
+ 1758  node test7.js
+ 1759  vi test7.js
+ 1760  node test7.js
+ 1761  vi test7.js
+ 1762  git pull
+ 1763  vi test8.js
+ 1764  node test8.js
+ 1765  vi test8.js
+ 1766  node test8.js
+ 1767  vi test8.js
+ 1768  node test8.js
+ 1769  vi test8.js
+ 1770  node test8.js
+ 1771  vi test8.js
+ 1772  node test8.js
+ 1773  vi test8.js
+ 1774  ls
+ 1775  minicrane
+ 1776  vi README.md
+ 1777  vi package.json
+ 1778  vi index.js
+ 1779  minicrane 1
+ 1780  vi index.js
+ 1781  minicrane 1
+ 1782  vi index.js
+ 1783  minicrane 12
+ 1784  vi index.js
+ 1785  minicrane 12
+ 1786  vi index.js
+ 1787  ls
+ 1788  vi ChangeLog.md
+ 1789  vi README.md
+ 1790  git branch 0.4.0/restParameter
+ 1791  git checkout 0.4.0/restParameter
+ 1792  vi index.js
+ 1793  vi README.md
+ 1794  git status
+ 1795  git add .
+ 1796  git commit -a
+ 1797  git push
+ 1798  git push --set-upstream origin 0.4.0/restParameter
+ 1799  vi index.js
+ 1800  cp index.js index.js.b
+ 1801  vi index.js
+ 1802  minicrane 1 2 3
+ 1803  vi index.js
+ 1804  minicrane 1 2 3
+ 1805  vi index.js
+ 1806  minicrane 1 2 3
+ 1807  vi index.js
+ 1808  minicrane 1 2 3
+ 1809  vi index.js
+ 1810  minicrane 1 2 3
+ 1811  vi index.js
+ 1812  minicrane 1 2 3
+ 1813  vi index.js
+ 1814  minicrane 1 2 3
+ 1815  vi index.js
+ 1816  vi index.js.b
+ 1817  cp index.js.b index2.js
+ 1818  vi index2.js
+ 1819  vi index.js
+ 1820  minicrane 1 2 3
+ 1821  vi index.js
+ 1822  minicrane 1 2 3
+ 1823  vi index.js
+ 1824  minicrane 1 2 3
+ 1825  vi index.js
+ 1826  minicrane 1 2 3
+ 1827  vi index.js
+ 1828  minicrane 1 2 3
+ 1829  vi index.js
+ 1830  minicrane 1 2 3
+ 1831  vi index.js
+ 1832  minicrane 1 2 3
+ 1833  vi index.js
+ 1834  minicrane 1 2 3
+ 1835  vi index.js
+ 1836  minicrane 1 2 3
+ 1837  vi index.js
+ 1838  minicrane 1 2 3
+ 1839  vi index.js
+ 1840  minicrane 1 2 3
+ 1841  vi index.js
+ 1842  minicrane 1 2 3
+ 1843  vi index.js
+ 1844  minicrane 1 2 3
+ 1845  minicrane 1 2 3\n
+ 1846  vi index.js
+ 1847  minicrane 1 2 3\n
+ 1848  vi index.js
+ 1849  minicrane 1 2 3\n
+ 1850  vi index.js
+ 1851  minicrane 1 2 3\n
+ 1852  vi index.js
+ 1853  minicrane 1 2 3\n
+ 1854  vi index.js
+ 1855  minicrane 1 2 3\n
+ 1856  vi index.js
+ 1857  minicrane 1 2 3\n
+ 1858  vi index.js
+ 1859  minicrane 1 2 3\n
+ 1860  vi index.js
+ 1861  cp index.js index.js.b2
+ 1862  vi index.js
+ 1863  minicrane\n
+ 1864  minicrane 1\n
+ 1865  vi index.js
+ 1866  ls
+ 1867  rm index2.js index.js.b2
+ 1868  git add .
+ 1869  git commit -a
+ 1870  git push
+ 1871  git pull
+ 1872  git push
+ 1873  git status
+ 1874  tree
+ 1875  git restore
+ 1876  git pull
+ 1877  git pull rebase
+ 1878  git pull --rebase
+ 1879  git pusghh
+ 1880  git pusg'
+ 1881  git push
+ 1882  minicrane 1 2 3
+ 1883  npm login
+ 1884  npm publish
+ 1885  vi index.js
+ 1886  cd
+ 1887  for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
+ 1888  sudo apt-get update
+ 1889  sudo apt-get install ca-certificates curl
+ 1890  sudo install -m 0755 -d /etc/apt/keyrings
+ 1891  sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+ 1892  sudo chmod a+r /etc/apt/keyrings/docker.asc
+ 1893  echo \\n  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \\n  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \\n  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null\nsudo apt-get update
+ 1894  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+ 1895  sudo docker run hello-world
+ 1896  sudo docker images
+ 1897  /hello
+ 1898  sudo docker run --name nginx-lb -d -p 9050:80 nginx:1.25.3
+ 1899  sudo docker ps
+ 1900  sudo docker run --name nginx-lb -d -p 9050:80 nginx:1.25.3
+ 1901  sudo docker run --name naver-1 -d -p 9051:80 nginx:1.25.3
+ 1902  sudo docker run --name naver-2 -d -p 9052:80 nginx:1.25.3
+ 1903  sudo docker run --name google-3 -d -p 9053:80 nginx:1.25.3
+ 1904  sudo docker ps
+ 1905  sudo docker exec -it naver-1 bash
+ 1906  sudo docker exec -it naver-2 bash
+ 1907  sudo docker exec -it google-3 bash
+ 1908  sudo docker exec -it nginx-lb bash
+ 1909  vi /etc/nginx/conf.d/
+ 1910  vi /etc/nginx/conf.d/default.conf
+ 1911  sudo docker exec -it nginx-lb bash
+ 1912  sudo docker exec -it naver-1 bash
+ 1913  sudo docker exec -it naver-2 bash
+ 1914  sudo docker exec -it naver-1 bash
+ 1915  sudo docker exec -it nginx-lb bash
+ 1916  sudo docker exec -it naver-1 bash
+ 1917  sudo docker exec -it naver-2 bash
+ 1918  sudo docker ps
+ 1919  sudo docker exec -it naver-2 bash
+ 1920  sudo docker exec -it nginx-lb bash
+ 1921  ifconfig -a
+ 1922  sudo docker ps
+ 1923  sudo docker exec -it nginx-lb bash
+ 1924  curl ifconfig.me
+ 1925  sudo docker exec -it nginx-lb bash
+ 1926  ifconfig
+ 1927  sudo docker exec -it nginx-lb bash
+ 1928  docker inspect naver-1
+ 1929  docker logs naver-1
+ 1930  /var/lib/docker/container
+ 1931  cd /var/lib/docker/container
+ 1932  sudo docker exec -it nginx-lb bash
+ 1933  cd /var
+ 1934  cd /lib
+ 1935  dc /var/lib
+ 1936  cd /var/lib
+ 1937  ls
+ 1938  cd /var/lib/docker
+ 1939  cd docker
+ 1940  sudo cd docker
+ 1941  vi docker
+ 1942  cd
+ 1943  cd /var/log/nginx
+ 1944  cd /var/log
+ 1945  ls
+ 1946  cs
+ 1947  cd
+ 1948  sudo docker exec -it nginx-lb bash
+ 1949  tail -f /var/log/nginx/access.log
+ 1950  cd /var/log
+ 1951  ls
+ 1952  cd
+ 1953  find / -name nginx.conf
+ 1954  cd /etc/nginx
+ 1955  cd /etc
+ 1956  ls
+ 1957  \n
+ 1958  cd
+ 1959  sudo docker exec -it naver-1 bash
+ 1960  cd /etc
+ 1961  ls
+ 1962  cd nginx
+ 1963  cd logcheck
+ 1964  ls
+ 1965  cd
+ 1966  vi /etc/nginx/nginx.conf
+ 1967  sudo docker exec -it naver-1 bash
+ 1968  sudo docker exec -it nginx-lbbash
+ 1969  sudo docker exec -it nginx-lb bash
+ 1970  sudo docker exec -it naver-1 bash
+ 1971  sudo docker exec -it nginx-lb bash
+ 1972  sudo docker exec -it naver-1 bash
+ 1973  sudo vi /etc/hosts 
+ 1974  curl http://localhost:9051
+ 1975  # 컬 명령어는 스크립트들을 불러온다
+ 1976  curl http://localhost:9050
+ 1977  curl http://localhost:9052
+ 1978  curl http://dj.naver.com:9052
+ 1979  curl http://dj.naver.com:9051
+ 1980  curl http://dj.google.com:9051
+ 1981  curl http://dj.google.com:9052
+ 1982  sudo docker stop naver-1
+ 1983  sudo docker ps
+ 1984  # 나오지 않음
+ 1985  # 로드벨런스가 알아서 헬스체크 후 살아있는 애들만 클라이언트와 연결시킴 
+ 1986  sudo docker exec -it nginx-lb bash
+ 1987  sudo docker exec -it naver-1 bash
+ 1988  sudo docker exec -it naver-2 bash
+ 1989  sudo docker start naver-1
+ 1990  sudo docker exec -it nginx-lb bash
+ 1991  vi ll.js
+ 1992  sudo docker exec -it nginx bash
+ 1993  sudo docker exec -it nginx-lb bash
+ 1994  sudo docker exec -it naver-1 bash
+ 1995  sudo docker run --name naver-3 -d -p 9054:80 nginx:1
+ 1996  sudo docker run --name naver-3 -d -p 9054:80 nginx:1.25.3
+ 1997  sudo docker ps
+ 1998  sudo docker exec -it naver-3 bash
+ 1999  sudo docker exec -it google-3 bash
+ 2000  sudo docker exec -it nginx-lb bash
+ 2001  sudo docker -it nginx-lb bash
+ 2002  sudo docker exec -it nginx-lb bash
+ 2003  cd /etc
+ 2004  ls
+ 2005  clesr
+ 2006  clear
+ 2007  cd
+ 2008  cd code
+ 2009  ls
+ 2010  cd pysatellite
+ 2011  ls
+ 2012  rm test.js test1.js test2.js test3.js test4.js test
+ 2013  rm test.js test1.js test2.js test3.js test4.js test5.js test6.js test7.js test8.js
+ 2014  ls
+ 2015  vi test.js
+ 2016  node test.js
+ 2017  vi test.js
+ 2018  vi test1.js
+ 2019  node test1.js
+ 2020  vi test1.js
+ 2021  node test1.js
+ 2022  vi test1.js
+ 2023  node test1.js
+ 2024  vi test2.js
+ 2025  node test2.js
+ 2026  vi test2.js
+ 2027  vi test1.js
+ 2028  vi test2.js
+ 2029  node test2.js
+ 2030  vi test2.js
+ 2031  vi test3.js
+ 2032  node test3.js
+ 2033  vi test3.js
+ 2034  vi test4.js
+ 2035  node test4.js
+ 2036  vi test4.js
+ 2037  vi test5.js
+ 2038  node test5.js
+ 2039  vi test5.js
+ 2040  node test5.js
+ 2041  vi test5.js
+ 2042  node test5.js
+ 2043  vi test5.js
+ 2044  ifconfig -a
+ 2045  vi test6.js
+ 2046  node test6.js
+ 2047  vi test6.js
+ 2048  node test6.js
+ 2049  vi test6.js
+ 2050  vi test7.js
+ 2051  node test7.js
+ 2052  vi test7.js
+ 2053  node test7.js
+ 2054  vi test8.js
+ 2055  node test8.js
+ 2056  vi test9.js
+ 2057  vi test10.js
+ 2058  node test10
+ 2059  vi test10.js
+ 2060  node test10
+ 2061  vi test10.js
+ 2062  vi test11.js
+ 2063  node test11.js
+ 2064  vi test11.js
+ 2065  vi test12.js
+ 2066  node test11.js
+ 2067  node test12.js
+ 2068  vi test12.js
+ 2069  vi test12-1.js
+ 2070  node test12-1.js
+ 2071  vi test12-1.js
+ 2072  vi test13.js
+ 2073  node test13
+ 2074  vi test13.js'
+ 2075  node test13
+ 2076  vi test13.js
+ 2077  vi test14.js
+ 2078  vi test15.js
+ 2079  vi test16.js
+ 2080  node test16.js
+ 2081  vi test16.js
+ 2082  node test16.js
+ 2083  vi test16.js
+ 2084  vi test17.js
+ 2085  vi test18.js
+ 2086  vi test19.js
+ 2087  vi test10.js
+ 2088  vi test20.js
+ 2089  node test20.js
+ 2090  vi test20.js
+ 2091  node test20.js
+ 2092  vi test20.js
+ 2093  node test20.js
+ 2094  vi test20.js
+ 2095  node test20.js
+ 2096  vi test20.js
+ 2097  vi test21.js
+ 2098  node test21.js
+ 2099  vi test21.js
+ 2100  vi test22.js
+ 2101  node test22.js
+ 2102  vi test22.js
+ 2103  vi test23.js
+ 2104  node test23.js
+ 2105  vi test23.js
+ 2106  vi test24.js
+ 2107  node test24.js
+ 2108  vi test24.js
+ 2109  node test24.js
+ 2110  vi test25.js
+ 2111  node test25.js
+ 2112  vi test25.js
+ 2113  vi test26.js
+ 2114  node test26.js
+ 2115  vi test26.js
+ 2116  node test26.js
+ 2117  vi test26.js
+ 2118  vi test27.js
+ 2119  node test27
+ 2120  vi test27.js
+ 2121  node test27
+ 2122  vi test27.js
+ 2123  node test27
+ 2124  d
+ 2125  cd
+ 2126  node -version
+ 2127  node --version
+ 2128  cd code
+ 2129  pwd
+ 2130  npm create vue@latest
+ 2131  ls
+ 2132  cd papercrane55123-hello-vue.github.io
+ 2133  tree
+ 2134  ls -a
+ 2135  cat .gitignore
+ 2136  git init
+ 2137  git add .
+ 2138  git commit -m "first commit"
+ 2139  git remote add origin git@github.com:papercrane55123-hello-vue/papercrane55123-hello-vue.github.io.git
+ 2140  git push
+ 2141  git push --set-upstream origin main
+ 2142  ls
+ 2143  git pull
+ 2144  cd code
+ 2145  ls
+ 2146  cd papercrane55123-hello-vue.github.io
+ 2147  ls
+ 2148  git status
+ 2149  tree
+ 2150  npm install
+ 2151  npm run dev
+ 2152  ls -l
+ 2153  du -sh node_modules
+ 2154  ls -l
+ 2155  du -s node_modules
+ 2156  du -sh node_modules
+ 2157  cat .gitignore|grep node_modules
+ 2158  git status
+ 2159  git add package-lock.json
+ 2160  git commit -m "npm install"
+ 2161  git pusj
+ 2162  git push
+ 2163  npm run dev
+ 2164  npm run build
+ 2165  vi dist/index.html
+ 2166  vi dist/assets/index-WjEyzLJD.css
+ 2167  ls -ltr
+ 2168  cd dist
+ 2169  ls
+ 2170  tree
+ 2171  pwd
+ 2172  cd ..
+ 2173  ls
+ 2174  ls -a
+ 2175  git branch 0.1.0/dist2docs
+ 2176  git checkout 0.1.0/dist2docs
+ 2177  vi package.json
+ 2178  git add .
+ 2179  git commit -a
+ 2180  git push
+ 2181  git push --set-upstream origin 0.1.0/dist2docs
+ 2182  ls
+ 2183  vi vite.config.js
+ 2184  cat vite.config.js
+ 2185  npm run build
+ 2186  ls
+ 2187  git status
+ 2188  vi .gitignore
+ 2189  git status
+ 2190  vi .gitignore
+ 2191  git status
+ 2192  git add ,
+ 2193  git add .
+ 2194  git status
+ 2195  git commit -m "git push create docs"
+ 2196  git push
+ 2197  vi .gitignore
+ 2198  git stats
+ 2199  git status
+ 2200  ls
+ 2201  tree
+ 2202  cd docs
+ 2203  ls
+ 2204  vi index.html
+ 2205  cd ..
+ 2206  vi index.html
+ 2207  cd docs
+ 2208  ls
+ 2209  vi index.html
+ 2210  npm install -g firebase-tools
+ 2211  firebase login
+ 2212  firebase init
+ 2213  firebase login
+ 2214  firebase projects:list
+ 2215  npm install -g firebase-tools
+ 2216  firebase init
+ 2217  firebase deploy --only hosting:papercrane55123
+ 2218  firebase deploy
+ 2219  ls
+ 2220  vi firebase.json
+ 2221  firebase deploy --only hosting:minicrane-vue
+ 2222  ls
+ 2223  vi firebase.json
+ 2224  vi index.html
+ 2225  firebase deploy
+ 2226  cd ..
+ 2227  ls
+ 2228  vi index.html
+ 2229  npm install -g firebase-tools
+ 2230  firebase login
+ 2231  firebase init
+ 2232  ls
+ 2233  vi firebase.json
+ 2234  firebase deploy --only hosting:vuemain
+ 2235  firebase deploy
+ 2236  ls
+ 2237  vi index.html
+ 2238  firebase init
+ 2239  vi firebase.json
+ 2240  firebase deploy --only hosting:vuemain
+ 2241  ls
+ 2242  ls -l
+ 2243  cd docs
+ 2244  ls
+ 2245  cd ..
+ 2246  ls
+ 2247  cd src
+ 2248  ls
+ 2249  vi main.js
+ 2250  cp main.js main.js.b
+ 2251  vi main.js
+ 2252  cd ..
+ 2253  firebase deploy
+ 2254  firebase deploy --only hosting:vuemain
+ 2255  ls
+ 2256  cd src
+ 2257  vi main.js
+ 2258  cd ..
+ 2259  firebase deploy
+ 2260  rm .firebaserc
+ 2261  ls
+ 2262  rm firebase.json
+ 2263  ls
+ 2264  firebase init
+ 2265  cd src
+ 2266  ls
+ 2267  vi main.js
+ 2268  cd ..
+ 2269  firebase deploy
+ 2270  ls
+ 2271  cd docs
+ 2272  ls
+ 2273  vi index.html
+ 2274  cd ..
+ 2275  firebase deploy
+ 2276  git add .
+ 2277  git commit -m "clear"
+ 2278  git push
+ 2279  cd docs
+ 2280  ls
+ 2281  cd ..
+ 2282  ls
+ 2283  cd src
+ 2284  ls
+ 2285  node --version
+ 2286  cd code
+ 2287  cd papercrane55123-hello-vue.github.io
+ 2288  ls -l
+ 2289  vi package-lock.json
+ 2290  vi package.json
+ 2291  cd code
+ 2292  cd papercrane55123-hello-vue.github.io
+ 2293  git pull
+ 2294  ls
+ 2295  git status
+ 2296  npm install
+ 2297  vi package.json
+ 2298  # 디펜던시=에 있는 뷰가 설치된다.
+ 2299  #devDepe~은 개발전용 디펜던시다
+ 2300  pwd
+ 2301  cd src
+ 2302  ls
+ 2303  tree
+ 2304  # component는 재사용 가능한 라이브러리 라고 생각하면 좋다
+ 2305  # 뷰에서 컴포넌트는 각각의 디자인 느낌이다
+ 2306  cd components
+ 2307  ls
+ 2308  l@DESKTOP-QKTLER8 \M-0 ~ \M-0l@DESKTOP-QKTLER8 \M-0 ~ \M-0l@DESKTOP-QKTLER8 \M-0 ~ \M-0l@DESKTOP-QKTLER8 \M-0 ~ \M-0l@DESKTOP-QKTLER8 \M-0 ~ \M-0sdfa
+ 2309  cd code
+ 2310  cd papercrane55123-hello-vue.github.io
+ 2311  cd src
+ 2312  ls
+ 2313  view App.vue
+ 2314  vi App.vue
+ 2315  cp App.vue App.vue.b
+ 2316  vi App.vue
+ 2317  git status
+ 2318  cd ..
+ 2319  git branch 0.3.1/hello-count
+ 2320  git checkout 0.3.1/hello-count
+ 2321  ls
+ 2322  vi package.json
+ 2323  git add .
+ 2324  git commit -a
+ 2325  git push
+ 2326  git push --set-upstream origin 0.3.1/hello-count
+ 2327  vi src/App.vue
+ 2328  npm run
+ 2329  npm run dev
+ 2330  cd ..
+ 2331  ls
+ 2332  vi main.js.b
+ 2333  vi main.js
+ 2334  mv main.js main.js.bb
+ 2335  mv main.js.b main.js
+ 2336  npm run dev
+ 2337  view main.js
+ 2338  cd src
+ 2339  ls
+ 2340  vi App.vue
+ 2341  cp App.vue.2
+ 2342  cp App.vue App.vue.2
+ 2343  vi App.vue
+ 2344  npm run dev
+ 2345  vi App.vue
+ 2346  npm run dev
+ 2347  vi App.vue
+ 2348  npm run dev
+ 2349  vi App.vue
+ 2350  npm run dev
+ 2351  vi App.vue
+ 2352  npm run dev
+ 2353  vi App.vue
+ 2354  cd code/papercrane55123-hello-vue.github.io
+ 2355  cd src
+ 2356  ls
+ 2357  vi App.vue
+ 2358  ls
+ 2359  ls -a
+ 2360  rm .App.vue.swp
+ 2361  vi App.vue
+ 2362  npm run
+ 2363  npm run dev
+ 2364  vi App.vue
+ 2365  npm run dev
+ 2366  vi App.vue
+ 2367  npm run dev
+ 2368  vi App.vue
+ 2369  npm run dev
+ 2370  vi App.vue
+ 2371  npm run dev
+ 2372  vi App.vue
+ 2373  npm run dev
+ 2374  vi App.vue
+ 2375  npm run dev
+ 2376  vi App.vue
+ 2377  cd ..
+ 2378  ls
+ 2379  vi index.html
+ 2380  npm run dev
+ 2381  vi App.vue
+ 2382  npm run dev
+ 2383  vi App.vue
+ 2384  npm run dev
+ 2385  vi App.vue
+ 2386  npm run dev
+ 2387  git add .
+ 2388  git commit -m "hello"
+ 2389  git push
+ 2390  git branch 0.3.2/hello-world
+ 2391  git checkout 0.3.2/hello-world
+ 2392  git add .
+ 2393  git status
+ 2394  git commit -a
+ 2395  cd src
+ 2396  pwd
+ 2397  vi App.vuep
+ 2398  vi App.vue
+ 2399  cd ..
+ 2400  vi src/App.vue
+ 2401  git add .
+ 2402  git commit -a
+ 2403  git push
+ 2404  git push --set-upstream origin 0.3.2/hello-world
+ 2405  vi src/App.vue
+ 2406  npm run dev
+ 2407  cd code/papercrane55123-hello-vue.github.io
+ 2408  npm run dev
+ 2409  vi src/App.vue
+ 2410  git add .
+ 2411  git commit -m "var"
+ 2412  git pushn
+ 2413  git push
+ 2414  git branch 0.3.2/if
+ 2415  git branch 0.3.3/if
+ 2416  git checkout 0.3.3/if
+ 2417  vi src/App.vue
+ 2418  vi package.json
+ 2419  git add .
+ 2420  git commit -m "start"
+ 2421  git push
+ 2422  vi src/App.vue
+ 2423  git add .
+ 2424  git commit -m "exit"
+ 2425  git push
+ 2426  git branch 0.3.4/v-for
+ 2427  git checkout 0.3.4/v-for
+ 2428  vi package.json
+ 2429  git add .
+ 2430  git commit -m "v-for"
+ 2431  git push
+ 2432  git push --set-upstream origin 0.3.4/v-for
+ 2433  vi src/App.vue
+ 2434  npm run dev
+ 2435  htop
+ 2436  vi src/App.vue
+ 2437  ls
+ 2438  ls -a
+ 2439  ls
+ 2440  cd src
+ 2441  ls
+ 2442  cd ..
+ 2443  vi src/assets/category.jdon
+ 2444  cd src
+ 2445  ls
+ 2446  cd assets
+ 2447  ls
+ 2448  vi category.json
+ 2449  cd ..
+ 2450  ls
+ 2451  git pull
+ 2452  git add .
+ 2453  git commit -m "finish"
+ 2454  git push
+ 2455  git branch 
+ 2456  git branch 0.3.5/vue_jason
+ 2457  git checkout 0.3.5/vue_jason
+ 2458  vi package.json
+ 2459  git add .
+ 2460  git commit -m "0.3.5/vuejason\n\n"
+ 2461  git push
+ 2462  vi src/App.vue
+ 2463  ls
+ 2464  cd code/papercrane55123-hello-vue.github.io/src/assets
+ 2465  ls
+ 2466  cat category.json
+ 2467  vi src/App.vue
+ 2468  git add .
+ 2469  git commit -m "clear"
+ 2470  git push
+ 2471  vi src/App.vue
+ 2472  git add .
+ 2473  git commit -m "update"
+ 2474  git push
+ 2475  vi src/App.vue
+ 2476  git add .
+ 2477  git commit
+ 2478  git push
+ 2479  git branch 0.3.6/searchEngine
+ 2480  git checkout 0.3.6/searchEngine
+ 2481  vi package.json
+ 2482  git add .
+ 2483  git commit -a
+ 2484  git push
+ 2485  git push --set-upstream origin 0.3.6/searchEngine
+ 2486  vi src/assets/countries.json
+ 2487  ls
+ 2488  cd src
+ 2489  cd assets
+ 2490  ls
+ 2491  vi category.json
+ 2492  ls
+ 2493  rename countries country countries.json
+ 2494  mv countries.json country.json
+ 2495  ls
+ 2496  cd ..
+ 2497  vi src/App.vue
+ 2498  npm run dev
+ 2499  git add .
+ 2500  git commit -m "List Output"
+ 2501  git push
+ 2502  vi src/App.vue
+ 2503  npm run dev
+ 2504  cp src/App.vue src/App.vue.b
+ 2505  vi src/App.vue
+ 2506  git add .
+ 2507  git commit -m "search engin"
+ 2508  git push
+ 2509  vi src/App.vue
+ 2510  ls
+ 2511  cd ..
+ 2512  ls
+ 2513  cd components
+ 2514  ls
+ 2515  view HelloWorld.vue
+ 2516  cd code/papercrane55123-hello-vue.github.io
+ 2517  vi src/App.vue
+ 2518  cd code
+ 2519  cd papercrane55123-hello-vue.github.io
+ 2520  ls
+ 2521  git pull
+ 2522  vi src/App.vue
+ 2523  cd code
+ 2524  cd papercrane55123-hello-vue.github.io
+ 2525  ls
+ 2526  npm run dev
+ 2527  cd
+ 2528  cd code
+ 2529  ls
+ 2530  mkdir kabanTeam.github.io
+ 2531  ls
+ 2532  cd kabanTeam.github.io
+ 2533  git init
+ 2534  git commit -m "first commit"
+ 2535  ls
+ 2536  cd ..
+ 2537  ls
+ 2538  cd papercrane55123.github.io
+ 2539  ls
+ 2540  cd ..
+ 2541  ls
+ 2542  cd kabanTeam.github.io
+ 2543  ls
+ 2544  vi ChangeLog.md
+ 2545  git add .
+ 2546  git commit -m "first commit"
+ 2547  git push
+ 2548  git remote add origin git@github.com:KanbanTeam/kabanTeam.git
+ 2549  git push
+ 2550  git push --set-upstream origin main
+ 2551  git remote add origin git@github.com:KanbanTeam/kabanTeam.git
+ 2552  git push
+ 2553  git branch 0.1.0/organiztion
+ 2554  git checkout 0.1.0/organiztion
+ 2555  git push
+ 2556  git pull
+ 2557  git checkout -
+ 2558  git pull
+ 2559  git branch --set-upstream-to=origin/<branch> main
+ 2560  git branch --set-upstream-to=origin/main main
+ 2561  git branch --set-upstream-to=main
+ 2562  git pull remote add origin git@github.com:KanbanTeam/kabanTeam.git
+ 2563  git remote add origin git@github.com:KanbanTeam/kabanTeam.git
+ 2564  git brancj
+ 2565  git branch
+ 2566  git branch -d 0.1.0/organiztion
+ 2567  git pull
+ 2568  cd 
+ 2569  ls
+ 2570  git code
+ 2571  cd code
+ 2572  ls
+ 2573  git clone git@github.com:KanbanTeam/kabanTeam.github.io.git
+ 2574  ls
+ 2575  rm kabanTeam.github.io
+ 2576  rm -rf kabanTeam.github.io
+ 2577  ls
+ 2578  git clone git@github.com:KanbanTeam/kabanTeam.github.io.git
+ 2579  ls
+ 2580  cd kabanTeam.github.io
+ 2581  ls
+ 2582  vi ChangeLog.md
+ 2583  git add .
+ 2584  git commit -m "first commit"
+ 2585  git push
+ 2586  git push origin main -f
+ 2587  ls
+ 2588  cd ..
+ 2589  ls
+ 2590  cd papercrane55123-hello-vue.github.io
+ 2591  ls
+ 2592  vi src/App.vue
+ 2593  git branch 0.4.0/TodoList
+ 2594  git checkout 0.4.0/TodoList
+ 2595  git add .
+ 2596  git commit -a
+ 2597  git push
+ 2598  git push --set-upstream origin 0.4.0/TodoList
+ 2599  vi src/App.vue
+ 2600  ls
+ 2601  cd src
+ 2602  ls
+ 2603  cd components
+ 2604  ls
+ 2605  vi Child.vue
+ 2606  cd ..
+ 2607  ls
+ 2608  vi src/App.vue
+ 2609  vi src/components/Child.vue
+ 2610  vi src/App.vue
+ 2611  vi src/components/Child.vue
+ 2612  vi src/App.vue
+ 2613  cd code
+ 2614  ls
+ 2615  cd papercrane55123-hello-vue.github.io
+ 2616  vi src/components/Child.vue
+ 2617  cd
+ 2618  cd code
+ 2619  ls
+ 2620  cd papercrane55123-hello-vue.github.io
+ 2621  cd code/papercrane55123-hello-vue.github.io
+ 2622  vi src/App.vue
+ 2623  npm run dev
+ 2624  vi package.json
+ 2625  git add .
+ 2626  git restore
+ 2627  git status
+ 2628  git restore --staged
+ 2629  git restore --staged .
+ 2630  git package.
+ 2631  vi package.json
+ 2632  git branch 0.5.0/morningStretch
+ 2633  git checkout 0.5.0/morningStretch
+ 2634  git add .
+ 2635  git commit -m "moringStretch"
+ 2636  git push
+ 2637  git push --set-upstream origin 0.5.0/morningStretch
+ 2638  vi src/App.vue
+ 2639  cat src/App.vue
+ 2640  vi src/App.vue
+ 2641  git add .
+ 2642  git push
+ 2643  git commit -m "before watch"
+ 2644  git push
+ 2645  vi src/App.vue
+ 2646  vi package.json
+ 2647  git status
+ 2648  git branch 0.5.1/morningStretch
+ 2649  git checkout 0.5.1/morningStretch
+ 2650  vi package.json
+ 2651  vi src/App.vue
+ 2652  git add ,
+ 2653  git add .
+ 2654  git commit -m "after watch"
+ 2655  git oush
+ 2656  git push
+ 2657  git push --set-upstream origin 0.5.1/morningStretch
+ 2658  vi src/App.vue
+ 2659  cd ..
+ 2660  mkdir papercrane-json-server
+ 2661  ls
+ 2662  cd papercrane-json-server
+ 2663  ls -l
+ 2664  npm install json-server
+ 2665  ls
+ 2666  ls -la
+ 2667  ls -a
+ 2668  ls -l
+ 2669  npm i json-server
+ 2670  ls -l
+ 2671  npm init
+ 2672  npm i json-server
+ 2673  ls
+ 2674  ls -l
+ 2675  sudo npm i json-server
+ 2676  sudo apt-get install npm
+ 2677  ls
+ 2678  cd ..
+ 2679  npm --version
+ 2680  npm i json-server
+ 2681  ls -l
+ 2682  npm list
+ 2683  ls
+ 2684  cd
+ 2685  cd wsl
+ 2686  ls
+ 2687  cd /home/wsl
+ 2688  ls
+ 2689  cd /home/wsl
+ 2690  cd /home/wsl/json-server@1.0.0-alpha.23
+ 2691  cd code
+ 2692  ls
+ 2693  cd papercrane-json-server
+ 2694  vi db.json
+ 2695  [200~npx json-server db.json~
+ 2696  npx json-server db.json
+ 2697  npm install json-server --prefix
+ 2698  ls
+ 2699  ls -l
+ 2700  ls -a
+ 2701  ls
+ 2702  ls -a
+ 2703  npm install json-server --prefix .
+ 2704  ls -l
+ 2705  ls
+ 2706  cd papercrane-json-server
+ 2707  npx json-server db.json
+ 2708  ls
+ 2709  vi package.json
+ 2710  rm -rf node_modules
+ 2711  npm install
+ 2712  ls
+ 2713  tree
+ 2714  find . -name "json-server"
+ 2715  git init
+ 2716  echo "node_modules" > .gitignore
+ 2717  ls
+ 2718  cat .gitignore
+ 2719  ls
+ 2720  ls -a
+ 2721  vi .gitignore
+ 2722  cat package.json
+ 2723  cat package.json | grep json
+ 2724  cat package.json | grep json > log.log
+ 2725  ls
+ 2726  vi log.log
+ 2727  rm log.log
+ 2728  ls
+ 2729  du -skh *
+ 2730  git add .
+ 2731  git commit -a
+ 2732  git push
+ 2733  git remote add origin git@github.com:papercrane55123/papercrane-json-server.git
+ 2734  git push
+ 2735  git push --set-upstream origin main
+ 2736  git pull
+ 2737  ls
+ 2738  git pull
+ 2739  vi README.md
+ 2740  cd code
+ 2741  ls
+ 2742  cd papercrane-json-server
+ 2743  ls
+ 2744  vi db.json
+ 2745  git add .
+ 2746  git commit -m "second commit"
+ 2747  git push
+ 2748  cd ..
+ 2749  ls
+ 2750  cd papercrane55123-hello-vue.github.io
+ 2751  ls
+ 2752  vi src/App.vue
+ 2753  cd code
+ 2754  ls
+ 2755  cd papercrane55123-hello-vue.github.io
+ 2756  npm run dev
+ 2757  ls
+ 2758  view db.json
+ 2759  ls
+ 2760  git pull
+ 2761  git add .
+ 2762  git commit -m "123"
+ 2763  git push
+ 2764  vi src/App.vue
+ 2765  git branch 0.1.0/fly
+ 2766  git checkout 0.1.0/fly
+ 2767  FROM node:20.11
+ 2768  cd
+ 2769  FROM node:20.11
+ 2770  cd code
+ 2771  cd papercrane-json-server
+ 2772  ls
+ 2773  vi Dockerfile
+ 2774  git add .
+ 2775  git commit -m "fly.io"
+ 2776  git push
+ 2777  git push --set-upstream origin 0.1.0/fly
+ 2778  curl -L https://fly.io/install.sh | sh
+ 2779  fly auth login
+ 2780  vi ~/.zshrc
+ 2781  fly auth login
+ 2782  vi ~/.zshrc
+ 2783  source ~/.zshrc
+ 2784  fly auth login
+ 2785  ln -s /usr/bin/wslview /usr/local/bin/xdg-open
+ 2786  fly auth login
+ 2787  ln -s /usr/bin/wslview /usr/local/bin/xdg-open
+ 2788  fly launch --image flyio/hellofly:latest
+ 2789  flyctl launch
+ 2790  ls
+ 2791  flyctl deploy
+ 2792  git status
+ 2793  git branch 0.1.1/fly-readme
+ 2794  git checkout 0.1.1/fly-readme
+ 2795  vi db.json
+ 2796  fly deploy
+ 2797  ls
+ 2798  cd code
+ 2799  ls
+ 2800  cd papercrane-json-server
+ 2801  ls
+ 2802  npm install json-server --prefix
+ 2803  ls
+ 2804  view db.json
+ 2805  npx json-server db.json
+ 2806  vi db.json
+ 2807  npx json-server db.json
+ 2808  cat db.json
+ 2809  npx json-server db.json
+ 2810  vi ~/.zshrc
+ 2811  cat ~/.zshrc
+ 2812  cd code/papercrane-json-server
+ 2813  ls
+ 2814  cd .
+ 2815  cd ..
+ 2816  ls
+ 2817  mkdir stellite-express
+ 2818  ls
+ 2819  mv stellite-express satellite-express
+ 2820  ls
+ 2821  cd satellite-express
+ 2822  cpm init
+ 2823  npm init
+ 2824  ls
+ 2825  view package.json
+ 2826  git add .
+ 2827  git init
+ 2828  git add .
+ 2829  git status
+ 2830  ls -a
+ 2831  vi .git
+ 2832  du -skha *
+ 2833  du -skh .git
+ 2834  git commit -m "first commit"
+ 2835  git push
+ 2836  git remote add origin git@github.com:papercrane55123/satellite-express.git
+ 2837  git push
+ 2838  git push --set-upstream origin main
+ 2839  ls
+ 2840  npm install express --save
+ 2841  ls
+ 2842  tree
+ 2843  view package-lock.json
+ 2844  vi package.json
+ 2845  # 디펜던시즈 생김
+ 2846  ls -a
+ 2847  # 검색창에 git ignore node
+ 2848  vi .gitignore
+ 2849  git status
+ 2850  ls
+ 2851  # 노드_모듈 사라짐
+ 2852  # 깃 이그노어 했기 때문
+ 2853  git add .
+ 2854  git commit -m "commit"
+ 2855  git push
+ 2856  git branch 0.2.0/hello-api
+ 2857  git checkout 0.2.0/hello-api
+ 2858  ls
+ 2859  vi package.json
+ 2860  git add .
+ 2861  git commit -m "commit"
+ 2862  git push
+ 2863  git push --set-upstream origin 0.2.0/hello-api
+ 2864  vi package.json
+ 2865  ls
+ 2866  git pull
+ 2867  # 평상시에는 이슈에 써놓고 나중에 리드미에 옮겨담기
+ 2868  ㅣㄴ
+ 2869  ls
+ 2870  vi app.js
+ 2871  node app.js
+ 2872  cd code
+ 2873  ls
+ 2874  cd satellite-express
+ 2875  ls
+ 2876  vi app.js
+ 2877  node app.js
+ 2878  mkdir papercrane-common-fun
+ 2879  ls
+ 2880  rm papercrane-common-fun
+ 2881  rm -rf papercrane-common-fun
+ 2882  ls
+ 2883  cd code
+ 2884  mkdir papercrane-common-fun
+ 2885  ls
+ 2886  cd papercrane-common-fun
+ 2887  npm init
+ 2888  git init
+ 2889  git add .
+ 2890  git commit -m "first"
+ 2891  git push
+ 2892  git remote add origin git@github.com:papercrane55123/papercrane-common-fun.git
+ 2893  git push
+ 2894  vi package.json
+ 2895  git add .
+ 2896  git commit -m "first commit"
+ 2897  git push
+ 2898  git branch 0.2.0/commonfunction
+ 2899  git checkout 0.2.0/commonfunction
+ 2900  vi package.json
+ 2901  git add .
+ 2902  git commit -
+ 2903  git commit -a
+ 2904  git push
+ 2905  git push --set-upstream origin 0.2.0/commonfunction
+ 2906  vi index.js
+ 2907  node index.js 1 3
+ 2908  npm publish
+ 2909  npm list -g
+ 2910  ls
+ 2911  git add .
+ 2912  git commit -m "commit"
+ 2913  git push
+ 2914  cd code
+ 2915  ls
+ 2916  cd satellite-express
+ 2917  git add .
+ 2918  git commit -m "commit"
+ 2919  git push
+ 2920  ls
+ 2921  vi app.js
+ 2922  ls -l
+ 2923  ls -a
+ 2924  rm -rf .app.js.swp
+ 2925  vi app.js
+ 2926  vi index.js
+ 2927  cd code
+ 2928  ls
+ 2929  node app.js
+ 2930  vi app.js
+ 2931  ls
+ 2932  cd papercrane-common-fun
+ 2933  ls
+ 2934  pwd
+ 2935  node app.js
+ 2936  ls
+ 2937  vi index.js
+ 2938  rm -rf .index.js.swp
+ 2939  vi index.js
+ 2940  vi app.js
+ 2941  node app.js
+ 2942  pwd
+ 2943  node app.js
+ 2944  vi app.js
+ 2945  node app.js
+ 2946  vi app.js
+ 2947  node app.js
+ 2948  vi app.js
+ 2949  node app.js
+ 2950  cd
+ 2951  cd code
+ 2952  git clone git@github.com:beyond-sw-camp/be01_3nd_2team.git
+ 2953  ls
+ 2954  cd be01_3nd_2team
+ 2955  ls
+ 2956  vi README.md
+ 2957  git pull
+ 2958  cd ..
+ 2959  ls
+ 2960  cd papercrane-common-fun
+ 2961  ls
+ 2962  vi index.js
+ 2963  ls
+ 2964  vi index.js
+ 2965  vi app.js
+ 2966  vi package.json
+ 2967  ls
+ 2968  ls -a
+ 2969  ls .gitignore
+ 2970  vi .gitignore
+ 2971  ls
+ 2972  cd code
+ 2973  mkdir HW-knowledge-management
+ 2974  cd HW-knowledge-management
+ 2975  git clone git@github.com:HW-knowledge-management/express.git
+ 2976  ls
+ 2977  cd express
+ 2978  vi README.md
+ 2979  ls
+ 2980  git add .
+ 2981  git commit -m "first commit"
+ 2982  git push
+ 2983  cd ..
+ 2984  git clone git@github.com:HW-knowledge-management/main-page.git
+ 2985  git clone git@github.com:HW-knowledge-management/npm.git
+ 2986  git clone git@github.com:HW-knowledge-management/json-server.git
+ 2987  ls
+ 2988  git clone git@github.com:beyond-sw-camp/be01_3nd_2team.git
+ 2989  ls
+ 2990  vi be01_3nd_2team/README.md
+ 2991  cd code
+ 2992  ls
+ 2993  cd HW-knowledge-management
+ 2994  ls
+ 2995  tree
+ 2996  cd json-server
+ 2997  git pull
+ 2998  cd ..
+ 2999  cd main-page
+ 3000  git pull
+ 3001  ls
+ 3002  cd ..
+ 3003  ls
+ 3004  cd npm
+ 3005  git pull
+ 3006  cd ..
+ 3007  ls
+ 3008  tree
+ 3009  cd main-page
+ 3010  ls
+ 3011  npm i vuetify
+ 3012  ls
+ 3013  ls -ka
+ 3014  ls -a
+ 3015  ls
+ 3016  npm create vuetify
+ 3017  ls
+ 3018  cd vuetify-project
+ 3019  ls
+ 3020  cd src
+ 3021  ls
+ 3022  view App.vue
+ 3023  ls
+ 3024  cd code
+ 3025  ls
+ 3026  cd HW-knowledge-management
+ 3027  ls
+ 3028  cd main-page
+ 3029  ls
+ 3030  npm run dev
+ 3031  cd vuetify-project
+ 3032  ls
+ 3033  npm run dev
+ 3034  ls
+ 3035  cd src
+ 3036  npm run dev
+ 3037  ls
+ 3038  vi App.vue
+ 3039  npm run dev
+ 3040  cd code
+ 3041  kls
+ 3042  ls
+ 3043  cd HW-knowledge-management
+ 3044  ls
+ 3045  cd main-page
+ 3046  ls
+ 3047  vi .gitignore
+ 3048  ls -a
+ 3049  vi README.md
+ 3050  git add .
+ 3051  git commit -a "README commit"
+ 3052  git commit -m "README commit"
+ 3053  git push
+ 3054  git pull
+ 3055  git push
+ 3056  git branch 0.1.0/README
+ 3057  git checkout 0.1.0/README
+ 3058  ls
+ 3059  git push
+ 3060  git push --set-upstream origin 0.1.0/README
+ 3061  cd
+ 3062  cd code
+ 3063  cd HW-knowledge-management
+ 3064  ls
+ 3065  cd express
+ 3066  npm install express --save
+ 3067  ls
+ 3068  vi app.js
+ 3069  node app.js
+ 3070  npm init
+ 3071  ls
+ 3072  vi package.json
+ 3073  npm install express --save
+ 3074  vi package.json
+ 3075  node app.js
+ 3076  vi app.js
+ 3077  node app.js
+ 3078  vi README.md
+ 3079  git branch 0.1.0/express
+ 3080  git checkout 0.1.0/express
+ 3081  git add .
+ 3082  git commit -m "README commit"
+ 3083  git push
+ 3084  git push --set-upstream origin 0.1.0/express
+ 3085  cd ..
+ 3086  cd HW-knowledge-management
+ 3087  ls
+ 3088  cd json-server
+ 3089  ls
+ 3090  npm install json-server --prefix .
+ 3091  ls
+ 3092  vi db.json
+ 3093  npx json-server db.json
+ 3094  vi README.md
+ 3095  git branch 0.1.0/json-server
+ 3096  git checkout 0.1.0/json-server
+ 3097  git add .
+ 3098  git commit -m "json commit"
+ 3099  git push
+ 3100  tree
+ 3101  cd ..
+ 3102  tree
+ 3103  tree -d
+ 3104  tree -L -1
+ 3105  tree -L 1
+ 3106  tree -L 2
+ 3107  ls
+ 3108  cd main-page
+ 3109  ls
+ 3110  cd vuetify-project
+ 3111  ls
+ 3112  cd src
+ 3113  ls
+ 3114  cd assets
+ 3115  ls
+ 3116  cd code
+ 3117  ls
+ 3118  cd HW-knowledge-management
+ 3119  ls
+ 3120  cd npm
+ 3121  ls
+ 3122  npm init
+ 3123  git index.js
+ 3124  touch index.js
+ 3125  ls
+ 3126  vi .gitignore
+ 3127  vi package.json
+ 3128  npm install -g ./
+ 3129  vi package.json
+ 3130  npm install -g ./
+ 3131  vi package.json
+ 3132  npm install -g ./
+ 3133  npm list -g
+ 3134  npm publish
+ 3135  vi README.md
+ 3136  git branch 0.1.0/npm
+ 3137  git checkout 0.1.0/npm
+ 3138  ls
+ 3139  node index.js
+ 3140  view index.js
+ 3141  git add .
+ 3142  git commit -m "npm commit"
+ 3143  git push
+ 3144  git push --set-upstream origin 0.1.0/npm
+ 3145  cd ..
+ 3146  ls
+ 3147  mkdir components
+ 3148  cd components
+ 3149  ls
+ 3150  touch Child.vue
+ 3151  cd ..
+ 3152  ls
+ 3153  cd ..
+ 3154  ls
+ 3155  vi app.vue
+ 3156  vi App.vue
+ 3157  clear
+ 3158  cd code
+ 3159  ls
+ 3160  cd HW-knowledge-management
+ 3161  ls
+ 3162  cd main-page
+ 3163  ls
+ 3164  cd vuetify-project
+ 3165  ls
+ 3166  npm run dev
+ 3167  ls
+ 3168  cd json-server/
+ 3169  ls
+ 3170  pwd
+ 3171  code App.vue
+ 3172  vi App.vue
+ 3173  ls
+ 3174  vi db.json
+ 3175  vi App.vue
+ 3176  cp App.vue App.vue.b
+ 3177  ls
+ 3178  cd components
+ 3179  ls
+ 3180  vi search.vue
+ 3181  cd ..
+ 3182  ls
+ 3183  vi db.json
+ 3184  cd ..
+ 3185  ls
+ 3186  vi src/components/search.vue
+ 3187  cp src/components/search.vue src/components/search.vue.b
+ 3188  vi src/components/search.vue
+ 3189  ls
+ 3190  cd src
+ 3191  ls
+ 3192  rm -rf App.vue
+ 3193  cp App.vue.b App.vue
+ 3194  ls
+ 3195  code App.vue
+ 3196  npm run dev
+ 3197  ls
+ 3198  code App.vue
+ 3199  git checkout main
+ 3200  git add .
+ 3201  git commit "reset"
+ 3202  git commit -m "reset"
+ 3203  git push
+ 3204  git checkout 0.1.0/README
+ 3205  git status
+ 3206  git push
+ 3207  cd ..
+ 3208  git push origin main
+ 3209  git pull
+ 3210  ls
+ 3211  git push
+ 3212  tree
+ 3213  ls
+ 3214  cd vuetify-project
+ 3215  ls
+ 3216  git add .
+ 3217  git push
+ 3218  git push origin main
+ 3219  cd ..
+ 3220  ls
+ 3221  git branch gyeongmin
+ 3222  git checkout gyeongmin
+ 3223  git checkout main
+ 3224  git branch gyeongmin
+ 3225  git checkout gyeongmin
+ 3226  vi README.md
+ 3227  git add .
+ 3228  git commit -m "reset"
+ 3229  git push
+ 3230  git push --set-upstream origin gyeongmin
+ 3231  git rebase main
+ 3232  git push origin main -f
+ 3233  ls
+ 3234  cd code
+ 3235  ls
+ 3236  cd HW-knowledge-management
+ 3237  ls
+ 3238  cd json-server
+ 3239  npx json-server db.json --port 3001
+ 3240  ls
+ 3241  cd vuetify-project
+ 3242  ls
+ 3243  vi src/components/search.vue
+ 3244  cd code
+ 3245  ls
+ 3246  cd papercrane55123-hello-vue.github.io
+ 3247  ls
+ 3248  cd src
+ 3249  ls
+ 3250  view App.vue
+ 3251  ls
+ 3252  vi App.vue.
+ 3253  vi App.vue.b
+ 3254  vi App.vue.2
+ 3255  cd components
+ 3256  ls
+ 3257  vi Child.vue 
+ 3258  cd code
+ 3259  ls
+ 3260  cd papercrane55123-hello-vue.github.io
+ 3261  ls
+ 3262  cd src
+ 3263  ls
+ 3264  cd assets
+ 3265  ls
+ 3266  cd .
+ 3267  cd ..
+ 3268  vi App.vue.b
+ 3269  ls
+ 3270  cd
+ 3271  cd code
+ 3272  ls
+ 3273  cd HW-knowledge-management
+ 3274  ls
+ 3275  cd main-page
+ 3276  git add .
+ 3277  git commit -m "24.02.06"
+ 3278  git push
+ 3279  git branch subbranch
+ 3280  git checkout subbranch
+ 3281  git add .
+ 3282  git commit -m "first"
+ 3283  ls
+ 3284  vi README.md
+ 3285  git add .
+ 3286  git commit -m "first"
+ 3287  git pusg
+ 3288  git push
+ 3289  git push --set-upstream origin subbranch
+ 3290  git status
+ 3291  cd code
+ 3292  ls
+ 3293  cd HW-knowledge-management
+ 3294  ls
+ 3295  cd npm
+ 3296  ls
+ 3297  cd pa
+ 3298  vi package.json
+ 3299  npm run dev
+ 3300  git pull
+ 3301  ls
+ 3302  cd vuetify-project
+ 3303  vi README.md
+ 3304  cd ..
+ 3305  vi README.md
+ 3306  git add .
+ 3307  git commit -m "first"
+ 3308  git push
+ 3309  git branch min
+ 3310  git checkout min
+ 3311  ls
+ 3312  cd vuetify-project
+ 3313  ls
+ 3314  vi src/components
+ 3315  vi src/App.vue
+ 3316  cd ..
+ 3317  vi README.md
+ 3318  git add .
+ 3319  git commit -m "first"
+ 3320  git push
+ 3321  git push --set-upstream origin min
+ 3322  git pull
+ 3323  git pull origin main
+ 3324  cd ..
+ 3325  ls
+ 3326  mv main-page main-page.b
+ 3327  ls
+ 3328  git clone git@github.com:HW-knowledge-management/main-page.git
+ 3329  ls
+ 3330  cd main-page
+ 3331  ls
+ 3332  cd vuetify-project
+ 3333  ls
+ 3334  cd src
+ 3335  ls
+ 3336  vi App.
+ 3337  vi App.vue
+ 3338  firebase login
+ 3339  firebase init
+ 3340  ls
+ 3341  vi firebase.json
+ 3342  firebase deploy --only hosting:hw-knowledge
+ 3343  ls
+ 3344  cd build
+ 3345  ls
+ 3346  vi index.html
+ 3347  cd ..
+ 3348  ls
+ 3349  vi firebase.json
+ 3350  vi main.js
+ 3351  git checkout min
+ 3352  ls
+ 3353  cd ..
+ 3354  ls
+ 3355  vi README.md
+ 3356  git pull
+ 3357  cd ..
+ 3358  ls
+ 3359  cd main-page.b
+ 3360  git merge main
+ 3361  git add .
+ 3362  git status
+ 3363  cd ..
+ 3364  ls
+ 3365  cd main-page
+ 3366  ls
+ 3367  vi vuetify-project
+ 3368  cd src
+ 3369  ls
+ 3370  vi App.vue
+ 3371  cd ..
+ 3372  ls
+ 3373  cd main-page.b
+ 3374  cd ..
+ 3375  cd main-page
+ 3376  npm run dev
+ 3377  cd ..
+ 3378  ls
+ 3379  cd main-page.b
+ 3380  ls
+ 3381  git pull
+ 3382  ls
+ 3383  git merge main into min
+ 3384  merge main into min
+ 3385  git merge main
+ 3386  git push -u origin min
+ 3387  git branch error
+ 3388  git checkout error
+ 3389  ls
+ 3390  vi README.md
+ 3391  git add .
+ 3392  git commit -m "sample"
+ 3393  git push
+ 3394  git push --set-upstream origin error
+ 3395  cd ..
+ 3396  ls
+ 3397  cd main-page
+ 3398  cd src
+ 3399  npm run dev
+ 3400  npm create vuetify
+ 3401  ls
+ 3402  cd ..
+ 3403  ls
+ 3404  rm -rf main-page
+ 3405  ls
+ 3406  git clone git@github.com:HW-knowledge-management/main-page.git
+ 3407  cd main-page
+ 3408  ls
+ 3409  npm run dev
+ 3410  cd ..
+ 3411  rm -rf main-page
+ 3412  ls
+ 3413  mkdir main-page
+ 3414  ls
+ 3415  cd main-page
+ 3416  ls
+ 3417  npm i vuetify
+ 3418  npm create vuetify
+ 3419  cd vuetify-project
+ 3420  cd src
+ 3421  ls
+ 3422  vi App.vue
+ 3423  git init
+ 3424  git remote add origin git@github.com:HW-knowledge-management/main-page.git
+ 3425  git pull
+ 3426  git branch mini
+ 3427  git branch hello
+ 3428  ls
+ 3429  cd ..
+ 3430  ls
+ 3431  cd ..
+ 3432  ls
+ 3433  git init
+ 3434  git branch mini
+ 3435  git commit -m "commit"
+ 3436  git pull
+ 3437  git pull git@github.com:HW-knowledge-management/main-page.git
+ 3438  ls
+ 3439  cd ..
+ 3440  ls
+ 3441  rm -rf main-page
+ 3442  git clone git@github.com:HW-knowledge-management/main-page.git
+ 3443  cd main-page
+ 3444  ls
+ 3445  npm run dev
+ 3446  cd ..
+ 3447  npm run dev
+ 3448  cd ..
+ 3449  ls
+ 3450  rm -rf main-page
+ 3451  npm run dev
+ 3452  ls
+ 3453  mv main-page.b main-page
+ 3454  ls
+ 3455  npm run dev
+ 3456  ls
+ 3457  cd main-page
+ 3458  npm run dev
+ 3459  ls
+ 3460  cd vuetify-project
+ 3461  npm run dev
+ 3462  ls
+ 3463  cd ..
+ 3464  ls
+ 3465  git checkout gyeongmin
+ 3466  vi README.md
+ 3467  git add .
+ 3468  git commit -m "sample"
+ 3469  git push
+ 3470  ls
+ 3471  cd ..
+ 3472  ls
+ 3473  mv main-page main-page.b
+ 3474  ls
+ 3475  cd main-page.b
+ 3476  ls
+ 3477  cd code
+ 3478  ls
+ 3479  cd HW-knowledge-management
+ 3480  ls
+ 3481  cd main-page.b
+ 3482  ls
+ 3483  npm run dev
+ 3484  cd vuetify-project
+ 3485  npm run dev
+ 3486  ls
+ 3487  cd vuetify-project
+ 3488  ls
+ 3489  cd src
+ 3490  ls
+ 3491  vi App.vue
+ 3492  code App.vue
+ 3493  ls
+ 3494  cd code
+ 3495  ls
+ 3496  cd HW-knowledge-management
+ 3497  ls
+ 3498  cd main-page.b
+ 3499  cd vuetify-project
+ 3500  cd src
+ 3501  ls
+ 3502  cd components
+ 3503  ls
+ 3504  code search.vue
+ 3505  cd ..
+ 3506  ls
+ 3507  cd ..
+ 3508  git add .
+ 3509  git commit -m "today last commit"
+ 3510  git push
+ 3511  git branch sample
+ 3512  git checkout sample
+ 3513  git checkout gyeongmin
+ 3514  git status
+ 3515  git checkout sample
+ 3516  git push
+ 3517  git push --set-upstream origin sample
+ 3518  cd
+ 3519  cd code
+ 3520  ls
+ 3521  cd HW-knowledge-management
+ 3522  ls
+ 3523  git clone git@github.com:HW-knowledge-management/main-page.git
+ 3524  ls
+ 3525  cd main-page
+ 3526  ls
+ 3527  cd src
+ 3528  ls
+ 3529  vi App.vue
+ 3530  code App.vue
+ 3531  vi components/search.vue
+ 3532  git branch gyeongmin
+ 3533  git checkout gyeongmin
+ 3534  git add .
+ 3535  git commit -m "first commit"
+ 3536  git push
+ 3537  ls
+ 3538  cd ..
+ 3539  ls
+ 3540  vi package
+ 3541  vi package.json
+ 3542  ls
+ 3543  mkdir sample
+ 3544  ls
+ 3545  cd sample
+ 3546  mkdir test
+ 3547  cd test
+ 3548  ls
+ 3549  npm i hw-knowledge-management
+ 3550  ls
+ 3551  ls -a
+ 3552  tree
+ 3553  npm i hw-knowledge-management --prefix .
+ 3554  ls -a
+ 3555  tree
+ 3556  npm run start
+ 3557  ls
+ 3558  cd node_modules
+ 3559  ls
+ 3560  cd vue
+ 3561  cd ..
+ 3562  cd vuetify
+ 3563  npm run start
+ 3564  npm run dev
+ 3565  ls
+ 3566  cd ~/sample/test
+ 3567  npm run dev
+ 3568  cd node_modules
+ 3569  npm run dev
+ 3570  ls
+ 3571  cd vuetify
+ 3572  ls
+ 3573  FROM node:20.11 as vue-build
+ 3574  node:20.11 as vue-build
+ 3575  vi Dockerfile
+ 3576  ls
+ 3577  npm run dev
+ 3578  vi package.json
+ 3579  ls
+ 3580  vi Dockerfile
+ 3581  npm run dev
+ 3582  docker build .
+ 3583  sudo docker build .
+ 3584  ls
+ 3585  cd ..
+ 3586  ls
+ 3587  cd ..
+ 3588  ls
+ 3589  cd ..
+ 3590  ls
+ 3591  cd ..
+ 3592  ls
+ 3593  cd code
+ 3594  ls
+ 3595  cd be01_3nd_2team
+ 3596  ls
+ 3597  cd ..
+ 3598  cd HW-knowledge-management
+ 3599  ls
+ 3600  mkdir test
+ 3601  ls
+ 3602  cd be01_3nd_2team
+ 3603  ls
+ 3604  cd ..
+ 3605  .cd main-page
+ 3606  ls
+ 3607  cd main-page
+ 3608  ls
+ 3609  cp -r vuetify-project ../test
+ 3610  cd ..
+ 3611  ls
+ 3612  cd test
+ 3613  ls
+ 3614  cd vuetify-project
+ 3615  ls
+ 3616  vi Dockerfile
+ 3617  sudo docker build .
+ 3618  ls
+ 3619  cd ..
+ 3620  ls
+ 3621  cd ..
+ 3622  ls
+ 3623  cd json-server
+ 3624  ls
+ 3625  cat db.json
+ 3626  clear
+ 3627  ls
+ 3628  cd ..
+ 3629  ls
+ 3630  cp json-server/db.json test/vuetify-project
+ 3631  cd test/vuetify-project
+ 3632  ls
+ 3633  sudo docker build .
+ 3634  ls
+ 3635  docker images ls
+ 3636  docker image ls
+ 3637  sudo docker image ls
+ 3638  docker run  f0cd1359824d
+ 3639  sudo docker run  f0cd1359824d
+ 3640  sudo docker run  f0cd1359824d -p 31212:80
+ 3641  sudo docker run  f0cd1359824d --p 31212:80
+ 3642  sudo docker run  -p 31212:80 f0cd1359824d
+ 3643  ls
+ 3644  cd code
+ 3645  ls
+ 3646  cd HW-knowledge-management
+ 3647  ls
+ 3648  cd main-page
+ 3649  ls
+ 3650  vi README.md
+ 3651  cd ..
+ 3652  cd main-page.b
+ 3653  ls
+ 3654  vi README.md
+ 3655  git checkout min
+ 3656  ls
+ 3657  git checkout min
+ 3658  ls
+ 3659  cd vuetify-project
+ 3660  ls
+ 3661  cd src
+ 3662  ls
+ 3663  vi App.vue
+ 3664  ls
+ 3665  cd components
+ 3666  ls
+ 3667  cp search.vue search.vue.c
+ 3668  rm search.vue search.vue.b
+ 3669  ls
+ 3670  vi search.vue
+ 3671  ls
+ 3672  cd ..
+ 3673  ls
+ 3674  cd ..
+ 3675  git add .
+ 3676  git commit -m "24.02.07 first commit"
+ 3677  git push
+ 3678  git pull
+ 3679  ls
+ 3680  vi README.md
+ 3681  git add .
+ 3682  git commit -m "commit"
+ 3683  git push
+ 3684  ls
+ 3685  cd code
+ 3686  ls
+ 3687  cd HW-knowledge-management
+ 3688  ls
+ 3689  cd main-page.b
+ 3690  ls
+ 3691  vuetify-project
+ 3692  npm run dev
+ 3693  ls
+ 3694  cd code
+ 3695  ls
+ 3696  cd HW-knowledge-management
+ 3697  ls
+ 3698  cd main-page.b
+ 3699  ls
+ 3700  cd vuetify-project
+ 3701  ls
+ 3702  cd ..
+ 3703  git pull
+ 3704  ls
+ 3705  cd ..
+ 3706  cd main-page
+ 3707  git pull
+ 3708  cd vuetify-project
+ 3709  ls
+ 3710  cd src
+ 3711  ls
+ 3712  cd ..
+ 3713  ls
+ 3714  vi ChangeLog.md
+ 3715  git add .
+ 3716  git commit -m "commit"
+ 3717  git push
+ 3718  cd vuetify-project
+ 3719  ls
+ 3720  cd src
+ 3721  ls
+ 3722  vi App.
+ 3723  vi App.vue
+ 3724  cd components
+ 3725  ls
+ 3726  vi search.vue
+ 3727  cd ..
+ 3728  ls
+ 3729  git add .
+ 3730  git commit -m "vue modify"
+ 3731  git push
+ 3732  ls
+ 3733  git pull
+ 3734  ls
+ 3735  cd vuetify-project
+ 3736  ls
+ 3737  npm run dev
+ 3738  ls
+ 3739  cd src
+ 3740  ls
+ 3741  vi App.vue
+ 3742  cd ..
+ 3743  cd main-page
+ 3744  ls
+ 3745  cd src
+ 3746  ls
+ 3747  vi App.vue
+ 3748  cd ../
+ 3749  cd src
+ 3750  ls
+ 3751  cd ..
+ 3752  cd vuetify-project
+ 3753  ls
+ 3754  cd src
+ 3755  ls
+ 3756  vi App.
+ 3757  vi App.vue
+ 3758  cd ..
+ 3759  npm run dev
+ 3760  vi App.vue
+ 3761  cd src
+ 3762  ls
+ 3763  vi App.vue
+ 3764  npm run dev
+ 3765  code App.vue
+ 3766  npm run dev
+ 3767  cd ..
+ 3768  git pull
+ 3769  cd vuetify-project
+ 3770  cd src
+ 3771  ls
+ 3772  vi App.vue
+ 3773  ls
+ 3774  cd components
+ 3775  ls
+ 3776  git pull
+ 3777  cd ..
+ 3778  ls
+ 3779  vi App.vue
+ 3780  ls
+ 3781  cd code
+ 3782  cd test
+ 3783  mkdir test
+ 3784  ls
+ 3785  cd test
+ 3786  ls
+ 3787  git clone git@github.com:HW-knowledge-management/main-page.git
+ 3788  ls
+ 3789  cd main-page
+ 3790  ls
+ 3791  cd vuetify-project
+ 3792  ls
+ 3793  npm run dev
+ 3794  ls
+ 3795  cd code
+ 3796  ls
+ 3797  cd test
+ 3798  ls
+ 3799  cd main-page
+ 3800  ls
+ 3801  code vuetify-project
+ 3802  cd vuetify-project
+ 3803  ls
+ 3804  code src/App.vue
+ 3805  ls
+ 3806  cd code
+ 3807  cd HW-knowledge-management
+ 3808  cd express
+ 3809  ls
+ 3810  cat package.json
+ 3811  vi app.js
+ 3812  node app.js
+ 3813  vi package.json
+ 3814  vi app.js
+ 3815  node app.js
+ 3816  ls
+ 3817  cd code
+ 3818  ls
+ 3819  cd HW-knowledge-management
+ 3820  cd express
+ 3821  ls
+ 3822  vi app.js
+ 3823  ls
+ 3824  cd code
+ 3825  cd HW-knowledge-management/test
+ 3826  ls
+ 3827  cd vuetify-project
+ 3828  ls
+ 3829  npm run dev
+ 3830  cd code/HW-knowledge-management/express
+ 3831  ls
+ 3832  cd ..
+ 3833  cd test
+ 3834  ls
+ 3835  cd vuetify-project
+ 3836  ls
+ 3837  npm run build
+ 3838  ls
+ 3839  cd dist
+ 3840  ls
+ 3841  tree
+ 3842  vi index.html
+ 3843  cd ..
+ 3844  ls
+ 3845  cd src
+ 3846  ls
+ 3847  cd app
+ 3848  vi App.vue
+ 3849  cd code/HW-knowledge-management/main-page
+ 3850  cd src
+ 3851  ls
+ 3852  vi App.vue
+ 3853  code App.vue
+ 3854  vi App.vue
+ 3855  ls
+ 3856  cd components
+ 3857  ls
+ 3858  vi search.vue
+ 3859  cd ..
+ 3860  ls
+ 3861  cd vuetify-project
+ 3862  ls
+ 3863  npm run build
+ 3864  ls
+ 3865  ped
+ 3866  pwd
+ 3867  ls
+ 3868  cd dist
+ 3869  pwd
+ 3870  ls
+ 3871  node app.js
+ 3872  vi app.js
+ 3873  node app.js
+ 3874  npm run dev
+ 3875  node app.js
+ 3876  npm run serve
+ 3877  ;s
+ 3878  ls
+ 3879  ls -l
+ 3880  ls -a
+ 3881  node app.js
+ 3882  ls
+ 3883  express --view
+ 3884  cd ..
+ 3885  ls
+ 3886  vue init webpack frontend
+ 3887  express -h
+ 3888  npm install express-generator -g
+ 3889  ls
+ 3890  express -h
+ 3891  node app.js
+ 3892  express --view=pug backend
+ 3893  ls
+ 3894  cd backend
+ 3895  ls
+ 3896  npm install
+ 3897  ls
+ 3898  node app.js
+ 3899  ls
+ 3900  DEBUG=backend:* & npm start
+ 3901  ls
+ 3902  node bin/www
+ 3903  vi package.json
+ 3904  vi node_modules
+ 3905  vi app.js
+ 3906  cd bin/www
+ 3907  ls
+ 3908  cd bin
+ 3909  ls
+ 3910  vi www
+ 3911  cd ..
+ 3912  vue init webpack frontend
+ 3913  cd ..
+ 3914  ls
+ 3915  cd test
+ 3916  ls
+ 3917  vuetify-project
+ 3918  vue init webpack frontend
+ 3919  ls
+ 3920  cd src
+ 3921  vue init webpack frontend
+ 3922  ls
+ 3923  npm install vue
+ 3924  ls
+ 3925  vue init webpack frontend
+ 3926  npm create vue@latest
+ 3927  ls
+ 3928  cd frontend
+ 3929  ls
+ 3930  cd ..
+ 3931  vue init webpack front
+ 3932  cd frontend
+ 3933  ls
+ 3934  vue init webpack front
+ 3935  cd ..
+ 3936  rm frontend
+ 3937  rm -rf frontend
+ 3938  ls
+ 3939  npm install -g @vue/cli
+ 3940  ls
+ 3941  vue init webpack frontend
+ 3942  ls
+ 3943  vue create webpack frontend
+ 3944  ls
+ 3945  cd webpack
+ 3946  ls
+ 3947  npm run dev
+ 3948  npm install
+ 3949  npm run dev
+ 3950  ls
+ 3951  vue init git@github.com:HW-knowledge-management/main-page.git
+ 3952  ls
+ 3953  cd ..
+ 3954  ls
+ 3955  vue create frontend
+ 3956  ls
+ 3957  cd frontend
+ 3958  ls
+ 3959  git pull
+ 3960  git pull remote git@github.com:HW-knowledge-management/main-page.git
+ 3961  git pull git@github.com:HW-knowledge-management/main-page.git
+ 3962  npm run dev
+ 3963  ls
+ 3964  cd src
+ 3965  ls
+ 3966  npm run dev
+ 3967  cd bin/www
+ 3968  node bin/www
+ 3969  cd backend
+ 3970  ls
+ 3971  node bin/www
+ 3972  cd ..
+ 3973  ls
+ 3974  cd vuetify-project
+ 3975  ls
+ 3976  npm run dev
+ 3977  ls
+ 3978  cd src
+ 3979  ls
+ 3980  cd components
+ 3981  ls
+ 3982  vi test.vue
+ 3983  cd ..
+ 3984  ls
+ 3985  cd ..
+ 3986  ls
+ 3987  cd frontend
+ 3988  ls
+ 3989  npm run serve
+ 3990  cd ..
+ 3991  cd test
+ 3992  ls
+ 3993  cd vuetify-project
+ 3994  npm run serve
+ 3995  npm run server
+ 3996  npm run serve
+ 3997  cd ..
+ 3998  ls
+ 3999  cd frontend
+ 4000  ls
+ 4001  npm run build
+ 4002  ls
+ 4003  vi app.js
+ 4004  sudo npm install -g nodemon
+ 4005  ls
+ 4006  vi server.js
+ 4007  node server.js
+ 4008  vi server.js
+ 4009  node server.js
+ 4010  nodemon server.js
+ 4011  vi server.js
+ 4012  ls
+ 4013  pwd
+ 4014  l;s
+ 4015  ls
+ 4016  nodemon server.js
+ 4017  vi server.js
+ 4018  ls
+ 4019  cd dist
+ 4020  ls
+ 4021  pwd
+ 4022  nodemon server.js
+ 4023  vi server.js
+ 4024  ls
+ 4025  nodemon server.js
+ 4026  cd ..
+ 4027  ls
+ 4028  node app.js
+ 4029  vi app.js
+ 4030  node app.js
+ 4031  cd ..
+ 4032  ls
+ 4033  node app.js
+ 4034  cd ..
+ 4035  ls
+ 4036  npm run dev
+ 4037  vi test
+ 4038  cd test
+ 4039  ls
+ 4040  cd vuetify-project
+ 4041  ls
+ 4042  cd src
+ 4043  ls
+ 4044  vi App.vue
+ 4045  ls
+ 4046  cd components
+ 4047  ls
+ 4048  vi express.vue
+ 4049  ls
+ 4050  cd src
+ 4051  ls
+ 4052  cd components
+ 4053  ls
+ 4054  vi search.vue
+ 4055  vi app.js
+ 4056  vi express.vue
+ 4057  node app.js
+ 4058  cd code/HW-knowledge-management/express
+ 4059  ls
+ 4060  node app.js
+ 4061  cd code/HW-knowledge-management/express
+ 4062  ls
+ 4063  node app.js
+ 4064  cd ..
+ 4065  ls
+ 4066  cd vuetify-project
+ 4067  ls
+ 4068  src
+ 4069  code App.vue
+ 4070  cd ..
+ 4071  ls
+ 4072  cd src
+ 4073  ls
+ 4074  cd components
+ 4075  ls
+ 4076  vi express.vue
+ 4077  npm run dev
+ 4078  cd
+ 4079  cd code/HW-knowledge-management/main-page
+ 4080  cd src/components
+ 4081  ls
+ 4082  vi search.vue
+ 4083  npm run dev
+ 4084  node app.js
+ 4085  npm run dev
+ 4086  cd ..
+ 4087  npm run dev
+ 4088  cd code
+ 4089  cd HW-knowledge-management
+ 4090  ls
+ 4091  cd main-page.b
+ 4092  ;s
+ 4093  ls
+ 4094  cd vuetify-project
+ 4095  ls
+ 4096  cd src
+ 4097  ls
+ 4098  npm run dev
+ 4099  cd code
+ 4100  cd HW-knowledge-management
+ 4101  cd test
+ 4102  ls
+ 4103  cd vuetify-project
+ 4104  ls
+ 4105  npm run dev
+ 4106  ls
+ 4107  cd src
+ 4108  ls
+ 4109  vi App.
+ 4110  vi App.vue
+ 4111  ls
+ 4112  cd ..
+ 4113  cd main-page
+ 4114  cd ..
+ 4115  cd test
+ 4116  ls
+ 4117  cd vuetify-project
+ 4118  ls
+ 4119  git init
+ 4120  git remote git@github.com:HW-knowledge-management/main-page.git
+ 4121  ls
+ 4122  cd src
+ 4123  ls
+ 4124  code App.vue
+ 4125  ls
+ 4126  cd components
+ 4127  ls
+ 4128  code search.vue
+ 4129  ls
+ 4130  cd ..
+ 4131  npm run dev
+ 4132  cd
+ 4133  cd code
+ 4134  cd HW-knowledge-management
+ 4135  cd main-page
+ 4136  ls
+ 4137  cd vuetify-project
+ 4138  npm run dev
+ 4139  tree -d
+ 4140  tree -d 1
+ 4141  tree -d -2
+ 4142  tree -d 2
+ 4143  tree -L 2
+ 4144  tree -dL 2
+ 4145  ls
+ 4146  cd code
+ 4147  ls
+ 4148  cd papercrane55123.github.io
+ 4149  ls
+ 4150  vi resume.html
+ 4151  code resume.html
+ 4152  vi style.css
+ 4153  cd
+ 4154  cd code
+ 4155  ls
+ 4156  cd HW-knowledge-management
+ 4157  ls
+ 4158  cd express
+ 4159  ls
+ 4160  vi app.js
+ 4161  vmstate
+ 4162  vmstat
+ 4163  cd temp
+ 4164  ls
+ 4165  vmsata
+ 4166  vmstat
+ 4167  vmstat 1
+ 4168  vmstat 1 >> vmstat.log
+ 4169  nohup vmstat 1 >> vmstat.log &
+ 4170  cat vmstat.log
+ 4171  ps -ef
+ 4172  ps -ef | grep nohub
+ 4173  ps -ef | grep vmstat
+ 4174  cd temp
+ 4175  ls
+ 4176  tail -f vmstat.log
+ 4177  ps -ef | grep vmstat
+ 4178  kill 4361
+ 4179  ls
+ 4180  nohup vmstat 1 >> wmstat1.log &
+ 4181  cat vmstat.log
+ 4182  nohup vmstat 10 >> wmstat10.log &
+ 4183  tail -f vmstat10.log
+ 4184  tail -f vmstat.log
+ 4185  ps -ef | grep vmstat
+ 4186  kill -9 13038
+ 4187  kill  13602
+ 4188  ls
+ 4189  tail -f wmstat1
+ 4190  tail -f wmstat1.log
+ 4191  kill -9 13669
+ 4192  # -9는 강제 종료
+ 4193  htop
+ 4194  curl https://pyenv.run | bash
+ 4195  ls
+ 4196  vi ~/.zshrc
+ 4197  source 
+ 4198  source ~/.zshrc
+ 4199  pyenv
+ 4200  pyenv versions'\n
+ 4201  pyenv versions
+ 4202  pyenv install --list | grep "3.7.1"
+ 4203  pyenv install 3.7.17
+ 4204  sudo apt install \\n    build-essential \\n    curl \\n    libbz2-dev \\n    libffi-dev \\n    liblzma-dev \\n    libncursesw5-dev \\n    libreadline-dev \\n    libsqlite3-dev \\n    libssl-dev \\n    libxml2-dev \\n    libxmlsec1-dev \\n    llvm \\n    make \\n    tk-dev \\n    wget \\n    xz-utils \\n    zlib1g-dev
+ 4205  pyenv install 3.7.16
+ 4206  pyenv install 3.7.17\n: 1707360583:0;pyenv install 3.7.17
+ 4207  pyenv versions
+ 4208  pyenv global 3.7.17
+ 4209  pyenv versions
+ 4210  python
+ 4211  pyenv versions
+ 4212  pyenv global system
+ 4213  python
+ 4214  python3
+ 4215  # 우분투 깔 때 기본적으로 깔려 있기 때문이다
+ 4216  which python3
+ 4217  ls -l
+ 4218  ls -l /usr/bin/python3
+ 4219  ls -l /usr/bin/python3.10
+ 4220  # 심볼릭 링크
+ 4221  pyenv global 3.7.17
+ 4222  which pythom
+ 4223  which python
+ 4224  pyenv versions
+ 4225  ls -l /home/wsl/.pyenv/shims/python
+ 4226  pyenv install --list
+ 4227  pyenv install --list | grep   3.11.7
+ 4228  pyenv install --list | grep 3.11
+ 4229  pyenv install 3.11.7
+ 4230  pyenv versionss
+ 4231  pyenv versions
+ 4232  pyenv global 3.11.7
+ 4233  python -V
+ 4234  pyenv versions
+ 4235  cd temp
+ 4236  ls
+ 4237  pyenv versions
+ 4238  mkdir python-test
+ 4239  cd python-test
+ 4240  ls
+ 4241  # 도커하면 격리된 환경
+ 4242  pyenv virtualenv 3.11.7 vpy3117
+ 4243  ls
+ 4244  pyenv versions
+ 4245  ls -l /home/wsl/.pyenv/version
+ 4246  cd /home/wsl/.pyenv/versions/3.11.7/envs/
+ 4247  ls
+ 4248  cd vpy3117
+ 4249  ls
+ 4250  cd bin
+ 4251  ls
+ 4252  cd -l
+ 4253  ls -l
+ 4254  cd ..
+ 4255  ls
+ 4256  du -skh *
+ 4257  cd ..
+ 4258  cd
+ 4259  cd temp/python-test
+ 4260  ls
+ 4261  pyenv global vpy3117
+ 4262  # 가상환경 
+ 4263  pyenv local vpy3117
+ 4264  ls -l
+ 4265  ls -al
+ 4266  cat .python-version
+ 4267  pyenv versions
+ 4268  pyenv global 3.11.7
+ 4269  python -V
+ 4270  cat .python-version
+ 4271  pyenv global 3.7.17
+ 4272  pyenv versions
+ 4273  pyenv global 3.7.17
+ 4274  pyenv versions
+ 4275  python -V
+ 4276  python local vpy311\7
+ 4277  python local vpy3117
+ 4278  cat .python-version
+ 4279  pyenv global 3.11.7
+ 4280  pyenv version
+ 4281  pyenv versions
+ 4282  pyenv global 3.11.7
+ 4283  pyenv global 3.7.17
+ 4284  pip install hong-beom-do
+ 4285  import & call
+ 4286  python
+ 4287  pip list
+ 4288  ls -al
+ 4289  cd ..
+ 4290  pip list
+ 4291  python
+ 4292  # 다른 이덱토리에서 꺼내올 수 없다.
+ 4293  cd python-test
+ 4294  ls
+ 4295  ls -l
+ 4296  ls -al
+ 4297  cat .python-version
+ 4298  cd
+ 4299  ls
+ 4300  pyenv virtualenv 3.11.7 ansible3117
+ 4301  pyenv versions
+ 4302  pyenv global ansible3117
+ 4303  # 옆에 나와있는 글씨로 가상환경을 설명함
+ 4304  pip install ansible
+ 4305  pip list
+ 4306  pyenv versions
+ 4307  pyenv global system
+ 4308  ansible
+ 4309  pyenv global ansible3117
+ 4310  # 즉, 내가 ansible은 격리된 환경에 설치한 것이다.
+ 4311  cd code
+ 4312  ls
+ 4313  mkdir hello-ansible
+ 4314  cd hello-ansible
+ 4315  pyenv local system
+ 4316  pyenv versions
+ 4317  pyenv local ansible3117
+ 4318  cat .python-version
+ 4319  ls
+ 4320  ls -a
+ 4321  # 어떻게 파이썬 버전이 생기는거지? 내가 파일을 만들어야 생기는건가?
+ 4322  ㅊㅇ ..
+ 4323  cd ..
+ 4324  pyenv help
+ 4325  pyenv virtualenv 3.11.7 cpu3117
+ 4326  pyenv local system
+ 4327  mkdir pycpu-study
+ 4328  cd pycpu-study
+ 4329  pyenv local cpu3117
+ 4330  python -V
+ 4331  vi usertime.py
+ 4332  taskset -c 0 python usertime.py
+ 4333  vi kerneltime.py
+ 4334  taskset -c 0 python usertime.py
+ 4335  top
+ 4336  htop
+ 4337  python usertime.py
+ 4338  vmstat 1
+ 4339  pyenv local system
+ 4340  ls
+ 4341  pyenv versions
+ 4342  vmstat 1
+ 4343  python usertime.py
+ 4344  python kerneltime.py
+ 4345  vi kerneltime.py
+ 4346  python kerneltime.py
+ 4347  task -c 0python kerneltime.py
+ 4348  taskset -c 0 python kerneltime.py
+ 4349  vmstat 1
+ 4350  taskset -c 0 python kerneltime.py
+ 4351  top
+ 4352  vmstat --unit M 1 3
+ 4353  # 이를 통해서 어디가 문제인지 이해 해서 찾아갈 수 있따
+ 4354  # 물론 엔지니어 영역 이긴 한데 그래도 알고 있는 것이 중요하다
+ 4355  # 나중에 업그레이드 할때도 필요함/
+ 4356  sar -B 2
+ 4357  df -h
+ 4358  du -h --max-depth=1
+ 4359  cd app
+ 4360  ls
+ 4361  cd ng
+ 4362  ls
+ 4363  cd controller
+ 4364  ls
+ 4365  java -jar ngrinder-controller-3.5.8.war
+ 4366  cd app
+ 4367  ls
+ 4368  cd ng
+ 4369  ls
+ 4370  tree
+ 4371  cd ngrinder-agent
+ 4372  ls
+ 4373  ./run_agent.sh
+ 4374  ls
+ 4375  cd app
+ 4376  nohup java -jar ngrinder-controller-3.5.8.war&
+ 4377  ls
+ 4378  cat nohup.out
+ 4379  tail -f nohup.out
+ 4380  ls
+ 4381  cd ng
+ 4382  ls
+ 4383  tar -xvf ngrinder-monitor-3.5.8.tar
+ 4384  ls
+ 4385  cd ngrinder-monitor
+ 4386  ls
+ 4387  ./run_monitor.sh
+ 4388  ./run_agent.sh
+ 4389  ls
+ 4390  cd app
+ 4391  ls
+ 4392  cd ng
+ 4393  ls
+ 4394  mv ngrinder-monitor-3.5.8.tar ~/temp
+ 4395  ls
+ 4396  tree -d
+ 4397  ls
+ 4398  cd ngrinder-monitor
+ 4399  ls
+ 4400  cd code
+ 4401  ls
+ 4402  cd hw
+ 4403  cd HW-knowledge-management
+ 4404  ls
+ 4405  cd main-page
+ 4406  ls
+ 4407  cd src
+ 4408  ls
+ 4409  run npm dev
+ 4410  npm run dev
+ 4411  ls
+ 4412  cd ..
+ 4413  ls
+ 4414  cd vuetify-project
+ 4415  ls
+ 4416  npm run dev
+ 4417  ls
+ 4418  cd src
+ 4419  ls
+ 4420  cd components
+ 4421  ls
+ 4422  vi search.vue
+ 4423  ls
+ 4424  cd code
+ 4425  ls
+ 4426  cd HW-knowledge-management
+ 4427  ls
+ 4428  cd json-server
+ 4429  ls
+ 4430  npx json-server db.json
+ 4431  cd..
+ 4432  cd ..
+ 4433  npm run dev
+ 4434  cd src
+ 4435  ls
+ 4436  cd components/
+ 4437  ls
+ 4438  vi search.vue
+ 4439  vi QnA.vue
+ 4440  vi sign-
+ 4441  vi sign-in.vue
+ 4442  vi sign-up.vue
+ 4443  vi wiki.vue
+ 4444  cd ..
+ 4445  npm run dev
+ 4446  cd ..
+ 4447  ls
+ 4448  cd vuetify-project
+ 4449  ls
+ 4450  cd src
+ 4451  vi App.vue
+ 4452  ls
+ 4453  cd ..
+ 4454  ls
+ 4455  cd ..
+ 4456  ls
+ 4457  cd test
+ 4458  ls
+ 4459  cd vuetify-project
+ 4460  ls
+ 4461  cd src
+ 4462  ls
+ 4463  vi App.
+ 4464  vi App.vue
+ 4465  npm run dev
+ 4466  ls
+ 4467  cd components
+ 4468  ls
+ 4469  vi QnA.vue
+ 4470  ls
+ 4471  ci express.vue
+ 4472  vi express.vue
+ 4473  ls
+ 4474  vi search.vue
+ 4475  ls
+ 4476  vi sign-in.vue
+ 4477  vi sign-up.vue
+ 4478  vi wiki.vue
+ 4479  cd ..
+ 4480  npm run dev
+ 4481  htop
+ 4482  ps
+ 4483  ls
+ 4484  ps -e
+ 4485  df -h
+ 4486  pyenv versions
+ 4487  ls
+ 4488  cd app
+ 4489  ls
+ 4490  cd
+ 4491  cd temp
+ 4492  ls
+ 4493  cd python-test
+ 4494  ls
+ 4495  ls -a
+ 4496  cd
+ 4497  ls
+ 4498  cd code
+ 4499  ls
+ 4500  cd pycpu-study
+ 4501  ls
+ 4502  taskset -c 0 python kerneltime.py
+ 4503  htop
+ 4504  sudo docker ps
+ 4505  sudo docker ps -a
+ 4506  sudo doker rm heuristic_herschel nginx-lb naver-1 naver-2  google-3 naver-3 cool_tesla friendly_mclaren  zen_leakey condescending_kirch
+ 4507  sudo docker ps -a
+ 4508  sudo doker rm nginx-lb naver-1 naver-2  google-3 naver-3 cool_tesla friendly_mclaren  zen_leakey condescending_kirch
+ 4509  sudo docker rm naver-1
+ 4510  sudo docker rm nginx-lb
+ 4511  sudo docker images
+ 4512  sudo docker rmi a8758716bb6a
+ 4513  sudo docker rmi  f0cd1359824d
+ 4514  sudo docker rmi -rf f0cd1359824d
+ 4515  sudo docker rmi -f f0cd1359824d
+ 4516  sudo docker rmi -f  a8758716bb6a
+ 4517  sudo docker rmi -f d2c94e258dcb
+ 4518  sudo docker images
+ 4519  sudo docker ps -a
+ 4520  sudo docker rm condescending_kirch
+ 4521  sudo docker rm zen_leakey
+ 4522  sudo docker rm friendly_mclaren
+ 4523  sudo docker rm cool_tesla
+ 4524  sudo docker rm naver-3
+ 4525  sudo docker rm google-3
+ 4526  sudo docker rm naver-2
+ 4527  sudo docker rm  heuristic_herschel
+ 4528  sudo docker ps -a
+ 4529  sudo docker images
+ 4530  sudo docker ps -a
+ 4531  sudo docker images
+ 4532  docker pull nginx
+ 4533  sudo docker pull nginx
+ 4534  sudo docker images
+ 4535  sudo docker pull nginx:1.25.3
+ 4536  sudo docker images
+ 4537  sudo docker pull nginx:1.25.3-alpine
+ 4538  sudo docker images
+ 4539  $ sudo docker run --name nginx-lb -d -p 9050:80 nginx:1.25.3
+ 4540  sudo docker run --name nginx-lb -d -p 9050:80 nginx:1.25.3
+ 4541  sudo docker ps
+ 4542  sudo docker run --name nginx-blog-1 -p 9050:80 nginx:1.25.3
+ 4543  sudo docker ps
+ 4544  sudo docker rm 2cf52455c074
+ 4545  sudo docker ps
+ 4546  sudo docker stop
+ 4547  sudo docker rm -f 2cf52455c074
+ 4548  sudo docker ps
+ 4549  sudo docker ps -a
+ 4550  sudo docker run --name nginx-blog-1 -p 9051:80 nginx:1.25.3
+ 4551  sudo docker ps -a
+ 4552  sudo docker run --name nginx-blog-2 -p 9051:80 nginx:1.25.3
+ 4553  sudo docker run --name nginx-blog-1 -d -p 9051:80 nginx:1.25.3
+ 4554  # 이미지로부터 파생된 중복된 내용이라 안되는 것이다.
+ 4555  sudo docker run --name nginx-blog-3 -d -p 9051:80 nginx:1.25.3
+ 4556  sudo docker ps -a
+ 4557  sudo docker ps
+ 4558  sudo docker ps -a
+ 4559  sudo docker rm -f 093b578f53cf
+ 4560  sudo docker run --name nginx-blog-3 -d -p 9051:80 nginx:1.25.3
+ 4561  sudo docker ps
+ 4562  sudo docker run --name nginx-blog-4 -d -p 9051:80 nginx:1.25.3
+ 4563  sudo docker ps
+ 4564  sudo docker ps -a
+ 4565  # 이름이 달라 설치는 되었으나 ps에는 찍히지 않음
+ 4566  # 개념, 원리, 
+ 4567  #뿌리를 아는 것이 중요하다
+ 4568  sudo docker ps
+ 4569  # 포트 번호가 다르면 잘 run 된다
+ 4570  # 80포트로 엔진엑스를 띄우고 9051, 9054 등으로 컨테이너를 띄우는 것이다.
+ 4571  sudo docker images
+ 4572  sudo docker rmi nginx
+ 4573  sudo docker images
+ 4574  # 최종버전 사라짐
+ 4575  sudo docker rmi nginx
+ 4576  # 최종버전은 이미 살제되었으므로 삭제 아ㅓㅄㅇ,ㅁ
+ 4577  sudo docker rmi nginx:1.25.3
+ 4578  sudo docker ps
+ 4579  sudo docker ps -a
+ 4580  # 여기서 컨테이너와 이미지의 관계를 알 수 있다.
+ 4581  sudo docker ps
+ 4582  sudo docker stop nginx-blog-5
+ 4583  sudo docker stop nginx-lb
+ 4584  sudo docker rm nginx-lb
+ 4585  sudo docker ps
+ 4586  sudo docker ps -a
+ 4587  sudo docker ps -a | wc -l
+ 4588  sudo docker start db29f7bdd8bf
+ 4589  sudo docker ps -a
+ 4590  sudo docker ps
+ 4591  sudo docker images
+ 4592  sudo docker rmi nginx:1.25.3
+ 4593  sudo docker ps -a | 9a42bcd44fc5
+ 4594  sudo docker ps -a | grep 9a42bcd44fc5
+ 4595  sudo docker rm nginx-blog-1
+ 4596  sudo docker rmi nginx:1.25.3
+ 4597  sudo docker ps
+ 4598  sudo docker ps -a
+ 4599  sudo docker tm db29f7bdd8bf
+ 4600  sudo docker rm db29f7bdd8bf
+ 4601  sudo docker stop db29f7bdd8bf 4dcaf984127f
+ 4602  sudo docker rm db29f7bdd8bf 1e9e1522e622
+ 4603  sudo docker rm 4dcaf984127f c96a8d6c73e3
+ 4604  sudo docker ps
+ 4605  sudo docker ps -a
+ 4606  sudo docker rmi nignx:1.25.3
+ 4607  sudo docker images
+ 4608  sudo docker rmi b690f5f0a2d5
+ 4609  sudo docker images
+ 4610  # sudo docker rmi repo:tag 로도 삭제 가능하다
+ 4611  cd code
+ 4612  ls
+ 4613  mkdir docker-nginx
+ 4614  cd docker-nginx
+ 4615  mkdir html
+ 4616  cd html
+ 4617  ls
+ 4618  vi index.html
+ 4619  docker run --name some-nginx-1 -v -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro -d nginx
+ 4620  sudo docker run --name some-nginx-1 -v -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro -d nginx
+ 4621  sudo docker pull nginx
+ 4622  sudo docker login
+ 4623  sudo docker pull nginx
+ 4624  sudo docker ps
+ 4625  sudo docker images
+ 4626  sudo docker run --name some-nginx-1 -v -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro -d nginx
+ 4627  sudo docker images
+ 4628  sudo docker ps
+ 4629  sudo docker login
+ 4630  sudo docker run --name some-nginx-1 -v -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro -d nginx
+ 4631  sudo docker images
+ 4632  sudo docker run --name some-nginx-1 -v -d -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro -d nginx
+ 4633  sudo docker ps
+ 4634  sudo docker ps -a
+ 4635  sudo docker run --name some-nginx-1 -v -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro -d nginx
+ 4636  sudo docker exec --help
+ 4637  sudo docker exec -it some
+ 4638  sudo docker exec -it some-nginx-1
+ 4639  sudo docker run --name some-nginx-1 -v -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro -d nginx
+ 4640  docker run --name some-nginx-1 -v -p 9051:80 /home/wsl/code/doc\nker-nginx/html:/etc/nginx/nginx.conf:ro -d nginx
+ 4641  # apt install vim
+ 4642  # apt update get
+ 4643  sudo docker run --name some-nginx-1 -v -d -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro nginx:1.25.3
+ 4644  sudo docker run --name some-nginx-1 -v -d nginx:1.25.3 -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro
+ 4645  sudo docker ps 
+ 4646  sudo docker ps -a
+ 4647  sudo docker start  some-nginx-1
+ 4648  sudo docker exec -it some-nginx-1 bash
+ 4649  sudo docker ps
+ 4650  sudo docker run some-nginx-1
+ 4651  sudo docker ps
+ 4652  sudo docker ps -a
+ 4653  docker
+ 4654  docker commit
+ 4655  docker commit --hekp
+ 4656  docker commit --help
+ 4657  docker commit some-nginx-1 nginx-vim
+ 4658  # 그러면 도커 이미지가 생긴다
+ 4659  sudo docker run --name some-nginx-1 -p 9051:80 -v /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro nginx
+ 4660  # sudo docker run --name some-nginx-1 -p 9052:80 -v /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro nginx-vim
+ 4661  vi index.html
+ 4662  sudo docker run --name some-nginx-3 -p 9053:80 -v /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro nginx
+ 4663  sudo docker ps
+ 4664  sudo docker ps -a
+ 4665  sudo docker start some-nginx-3
+ 4666  sudo docker ps
+ 4667  sudo docker exec -it some-nginx-3 bahs
+ 4668  sudo docker exec -it some-nginx-3 bash
+ 4669  docker commit some-nginx-3 nginx-vim
+ 4670  sudo docker commit some-nginx-3 nginx-vim
+ 4671  sudo docker images
+ 4672  sudo docker run --name some-nginx-2 -p 9051:80 -v /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro nginx-vim
+ 4673  sudo docker ps
+ 4674  sudo docker start some-nginx-2
+ 4675  sudo docker ps
+ 4676  sudo docker exec -it some-nginx-2 bash
+ 4677  curl http://localhost:9051
+ 4678  # 값을 퓨어하게 보여준다
+ 4679  sudo docker exec -it some-nginx-2 bash
+ 4680  vi
+ 4681  vi index.html
+ 4682  curl http://localhost:9051
+ 4683  ls
+ 4684  cd code
+ 4685  cd docker-nginx
+ 4686  cd html
+ 4687  cd ..
+ 4688  ls -l
+ 4689  cat html/index.html
+ 4690  history | grep --name
+ 4691  history | grep name
+ 4692  sudo docker images
+ 4693  sudo docker ps
+ 4694  history | grep commit
+ 4695  sudo docker images
+ 4696  sudo docker tag nginx-vim minicrane/nginx-vim:0.1.0
+ 4697  sudo docker images
+ 4698  sudo docker ps
+ 4699  sudo docker ps -a
+ 4700  sudo docker stop 057d8f63a6af 622a491d09e3
+ 4701  sudo docker rm 057d8f63a6af 622a491d09e3 5cc75e8cc6d5
+ 4702  sudo docker ps -a
+ 4703  sudo docker images
+ 4704  sudo docker rmi db94b9db0b75 db94b9db0b75 b690f5f0a2d5 b690f5f0a2d5 2b70e4aaac6b
+ 4705  sudo docker images
+ 4706  sudo docker rmi db94b9db0b75
+ 4707  sudo docker rmi b690f5f0a2d5
+ 4708  sudo docker rmi db94b9db0b75
+ 4709  sudo docker rmi -f db94b9db0b75 b690f5f0a2d5
+ 4710  sudo docker images
+ 4711  docker pull minicrane/nginx-vim
+ 4712  sudo docker pull minicrane/nginx-vim
+ 4713  sudo docker pull nginx
+ 4714  docker pull minicrane/nginx-vim
+ 4715  sudo docker pull minicrane/nginx-vim
+ 4716  sudo docker pull minicrane/nginx-vim:0.1.0
+ 4717  sudo docker images
+ 4718  # 버전 입력 필요 pull 시
+ 4719  # 중복으로 디스크에 저장하지 않고 도커 레이어에 저장
+ 4720  # 이게 도커의 특징임
+ 4721  sudo docker images
+ 4722  sudo docker run --name some-nginx-vim-1 \\n-p 9051:80 \\n-d minicrane/nginx-vim:0.1.0
+ 4723  sudo docker ps
+ 4724  # 안에 있는 파일값(index.html)은 같이 따라오지 않음
+ 4725  docker pull pysatellite/nginx-vim:0.1.0
+ 4726  sudo docker pull pysatellite/nginx-vim:0.1.0
+ 4727  sudo docker run --name pysatellite-nginx-vim-2 \\n-p 9052:80 \\n-d pysatellite/nginx-vim:0.1.0
+ 4728  sudo docker ps
+ 4729  ls
+ 4730  cat html/index.html
+ 4731  git init
+ 4732  git add .
+ 4733  git status
+ 4734  git remote add origin git@github.com:papercrane55123/docker-nginx.git
+ 4735  git commit -m "first commit"
+ 4736  git push
+ 4737  git push --set-upstream origin main
+ 4738  vi README.md
+ 4739  git add .
+ 4740  git commit -m "readme"
+ 4741  git push
+ 4742  git pull
+ 4743  vi README.md
+ 4744  git add .
+ 4745  git commit -m "readme"
+ 4746  git push
+ 4747  cd code/docker-nginx
+ 4748  sudo docker ps
+ 4749  git branch index.html/0.2.0
+ 4750  git checkout index.html/0.2.0
+ 4751  git ChangeLog.md
+ 4752  vi README.md
+ 4753  git add .
+ 4754  git commit -a
+ 4755  git push
+ 4756  git push --set-upstream origin index.html/0.2.0
+ 4757  cat html/index.html
+ 4758  ls
+ 4759  pwd
+ 4760  ls -l
+ 4761  sudo docker ps
+ 4762  sudo docker stop  pysatellite-nginx-vim-2
+ 4763  sudo docker ps
+ 4764  sudo docker --help
+ 4765  sudo docker ps -a
+ 4766  sudo docker ps | rev | cut | -d' ' -f1 | rev
+ 4767  sudo docker ps | rev | cut  -d' ' -f1 | rev
+ 4768  # rev는 뒤집기, cut은 자르기 -d' '는 띄어쓰기를 기준으로 자른다. 첫번째것을 꺼내고 다시 뒤집기
+ 4769  # 의미가 그렇다고
+ 4770  sudo docker exec -it minicrane/nginx-vim:0.1.0 bash
+ 4771  sudo docker exec -it some-nginx-vim-1 basg
+ 4772  sudo docker exec -it some-nginx-vim-1 bash
+ 4773  id
+ 4774  pwd
+ 4775  sudo docker ps
+ 4776  sudo docker exec -it some-nginx-vim-1 bash
+ 4777  pwd
+ 4778  sudo docker cp html/index.html some-nginx-vim-1:/usr/share/nginx/html/
+ 4779  view html/index.html
+ 4780  sudo docker ps
+ 4781  sudo docker images
+ 4782  ls
+ 4783  cat html/index.html
+ 4784  sudo docker logs some-nginx-vim-1
+ 4785  sudo docker tail -f  logs some-nginx-vim-1
+ 4786  sudo docker tail  logs some-nginx-vim-1
+ 4787  sudo docker push minicrane/nginx-vim:0.2.0
+ 4788  sudo docker push minicrane/nginx-vim
+ 4789  sudo docker commit some-nginx-vim-1 minicrane\n/\nnginx-vim-html:0.2.0
+ 4790  sudo docker images
+ 4791  pyenv global system
+ 4792  sudo docker commit some-nginx-vim-1 minicrane/nginx-vim-html:0.2.0
+ 4793  sudo docker images
+ 4794  sudo docker push minicrane/nginx-vim-html:0.2.0
+ 4795  sudo docker commit some-nginx-vim-1 minicrane/nginx-vim:0.2.0
+ 4796  sudo docker images
+ 4797  sudo docker push minicrane/nginx-vim:0.2.0
+ 4798  ls
+ 4799  cd home
+ 4800  ls
+ 4801  cd wsl
+ 4802  cd code
+ 4803  cd docker-nginx
+ 4804  ls
+ 4805  vi README.md
+ 4806  git add .
+ 4807  git commit -m "success"
+ 4808  git push
+ 4809  git pull
+ 4810  vi README.md
+ 4811  git pull
+ 4812  cd code
+ 4813  ls
+ 4814  cd docker-nginx
+ 4815  git branch 0.3.0/fly-deploy
+ 4816  git checkout -
+ 4817  git pull
+ 4818  git checkout 0.3.0/fly-deploy
+ 4819  vi README.md
+ 4820  git add .
+ 4821  git commit -a
+ 4822  git push
+ 4823  ls
+ 4824  vi html/index.html
+ 4825  firebase login
+ 4826  firebase init
+ 4827  ls
+ 4828  vi firebase.json
+ 4829  firebase deploy --only hosting:docker-fly
+ 4830  ls
+ 4831  vi firebase.json
+ 4832  firebase deploy
+ 4833  firebase deploy --only hosting:docker-fly
+ 4834  firebase init
+ 4835  ls
+ 4836  vi firebase.json
+ 4837  firebase deploy --only hosting:docker-fly
+ 4838  vi firebase.json
+ 4839  firebase deploy --only hosting:docker-fly
+ 4840  vi firebase.json
+ 4841  firebase deploy --only hosting:docker-fly
+ 4842  vi firebase.json
+ 4843  firebase deploy --only hosting:docker-fly
+ 4844  ls
+ 4845  tree
+ 4846  vi build/index.html
+ 4847  firebase deploy --only hosting:docker-fly
+ 4848  vi firebase.json
+ 4849  firebase deploy --only hosting:docker-fly
+ 4850  sudo docker
+ 4851  curl https://blog.naver.com/mini_crane_\?Redirect\=Write
+ 4852  ls
+ 4853  cat index.html
+ 4854  curl https://www.google.com/
+ 4855  sudo docker ps
+ 4856  sudo docker ps | rev
+ 4857  cd code
+ 4858  ls
+ 4859  cd papercrane
+ 4860  cd papercrane55123.github.io
+ 4861  ls
+ 4862  git pull
+ 4863  git checkout -
+ 4864  git checkout main
+ 4865  git status
+ 4866  git restore -a
+ 4867  git restore all
+ 4868  git restore -all
+ 4869  git add .
+ 4870  git commit -m "before docker"
+ 4871  git pysh
+ 4872  git push
+ 4873  ls
+ 4874  git checkout main
+ 4875  git pull
+ 4876  ls
+ 4877  view index.html
+ 4878  tree
+ 4879  sudo docker pull nginx
+ 4880  docker images
+ 4881  sudo docker images
+ 4882  sudo docker ps
+ 4883  sudo docker ps -a
+ 4884  sudo docker rm c46a85517920
+ 4885  sudo docker stop 2302bca61e59
+ 4886  sudo docker rm 2302bca61e59
+ 4887  sudo docker rmi 7de2ea42f1a2 2a93d3a9dcd8
+ 4888  sudo docker images
+ 4889  sudo docker rmi minicrane minicrane/nginx-vim:0.1.0
+ 4890  sudo docker images
+ 4891  sudo docker rmi 93ab6e6c9ffc
+ 4892  #sudo docker run --name blog-nginx-1 -v -p 9051:80 /home/wsl/code/docker-nginx/html:/usr/share/nginx/html:ro -d nginx
+ 4893  pwd
+ 4894  sudo docker run --name blog-nginx-1 -v -p 9051:80 /home/wsl/code/papercrane55123.github.io/.:/usr/share/nginx/html/: -d nginx
+ 4895  sudo docker login
+ 4896  sudo docker run --name blog-nginx-1 -v -p 9051:80 /home/wsl/code/papercrane55123.github.io/.:/usr/share/nginx/html/: -d nginx
+ 4897  sudo docker run --name blog-nginx-1 -v -p 9052:80 /home/wsl/code/papercrane55123.github.io/.:/usr/share/nginx/html/: -d nginx
+ 4898  sudo docker run --name blog-nginx-1 -v /home/wsl/code/papercrane55123.github.io/.:/us\nr/share/nginx/html/: -p 9051:80 -d nginx
+ 4899  sudo docker run --name blog-nginx-1 -v /home/wsl/code/papercrane55123.github.io/.:/us\nr/share/nginx/html: -p 9051:80 -d nginx
+ 4900  sudo docker run --name blog-nginx-1 -v /home/wsl/code/papercrane55123.github.io/.:/usr/share/nginx/html/: -p 9051:80 -d nginx
+ 4901  sudo docker run --name blog-nginx-1 -v /home/wsl/code/papercrane55123.github.io/.:/usr/share/nginx/html: -p 9051:80 -d nginx
+ 4902  sudo docker run --name blog-nginx-1 -v /home/wsl/code/papercrane55123.github.io/:/usr/share/nginx/html: -p 9051:80 -d nginx
+ 4903  sudo docker run --name blog-nginx-1 -v /home/wsl/code/papercrane55123.github.io/.:/usr/share/nginx/html/ -p 9051:80 -d nginx
+ 4904  sudo docker ps
+ 4905  sudo docker exec -it blog-nginx-1 bash
+ 4906  sudo docker commit blog-nginx-1 blog-nginx:0.1.0
+ 4907  sudo docker images
+ 4908  sudo docker pull blog-nginx
+ 4909  sudo docker push blog-nginx
+ 4910  sudo docker push blog-nginx:0.1.0
+ 4911  sudo docker login
+ 4912  sudo docker push blog-nginx:0.1.0
+ 4913  sudo docker images
+ 4914  sudo docker rmi -f 79149087b05b
+ 4915  sudo docker ps
+ 4916  sudo docker commit blog-nginx-1 minicrane/blog-nginx:0.1.0
+ 4917  sudo docker images
+ 4918  sudo docker push minicrane/blog-nginx:0.1.0
+ 4919  ls
+ 4920  sudo docker stop blog-nginx-1
+ 4921  sudo docker ps
+ 4922  sudo docker ps -a
+ 4923  docker pull minicrane/blog-nginx:0.1.0
+ 4924  sudo docker rm blog-nginx-1
+ 4925  sudo docker ps -a
+ 4926  sudo docker images
+ 4927  sudo docker rmi a2866b175fb8
+ 4928  sudo docker images
+ 4929  sudo docker pull minicrane/blog-nginx:0.1.0
+ 4930  sudo docker images
+ 4931  sudo docker run --name blog-nginx-container -d -p 9051:80 a2866b175fb8
+ 4932  sudo docker ps
+ 4933  curl http://localhost:9051/
+ 4934  sudo docker exec -it blog-nginx-container bash
+ 4935  sudo docker ps -a
+ 4936  cd code/papercrane55123.github.io
+ 4937  ls
+ 4938  sudo docker cp papercrane55123.github.io/. blog-nginx-container:/usr/share/nginx/html/
+ 4939  ped
+ 4940  pwd
+ 4941  #sudo docker cp . blog-nginx-container:/usr/share/nginx/html/
+ 4942  sudo docker cp code/papercrane55123.github.io/. blog-nginx-container:/usr/share/nginx/html/
+ 4943  pwd
+ 4944  sudo docker cp /home/wsl/code/papercrane55123.github.io/. blog-nginx-container:/usr/share/nginx/html/
+ 4945  sudo docker exec -it blog-nginx-container bash
+ 4946  sudo docker images
+ 4947  sudo docker commit blog-nginx-container minicrane/blog-nginx:0.2.0
+ 4948  sudo docker images
+ 4949  sudo docker push minicrane/blog-nginx:0.2.0
+ 4950  sudo docker rmi 765c43389e00
+ 4951  sudo docker images
+ 4952  sudo docker pull minicrane/blog-nginx:0.2.0
+ 4953  sudo docker images
+ 4954  sudo docker ps
+ 4955  sudo docker run --name blog-nginx-container-2 -d -p 9052:80 765c43389e00
+ 4956  curl http://localhost:9052/
+ 4957  sudo docker ps
+ 4958  sudo docker stop blog-nginx-container
+ 4959  sudo docker ps
+ 4960  curl http://localhost:9052/
+ 4961  sudo docker exec -it blog-nginx-container-2
+ 4962  sudo docker exec -it blog-nginx-container-2 bash
+ 4963  cd code
+ 4964  ls
+ 4965  cd papercrane55123.github.io
+ 4966  ls
+ 4967  vi README.md
+ 4968  git branch 0.8.0/docker
+ 4969  git checkout 0.8.0/docker
+ 4970  git add .
+ 4971  git commit -a
+ 4972  git push
+ 4973  sudo docker ps
+ 4974  sudo docker pull soominjeong/nginx-gitblog:0.1.0
+ 4975  sudo docker ps
+ 4976  sudo docker images
+ 4977  sudo docker rmi a2866b175fb8
+ 4978  sudo docker run --name sumin-nginx -d -p 9060:80 soominjeong/nginx-gitblog:0.1.0
+ 4979  curl http://localhost:9060/
+ 4980  sudo docker exec -it sumin-nginx bash
+ 4981  ls
+ 4982  clear
+ 4983  sudo docker ps -a
+ 4984  sudo docker stop c0eb25ebc1c3 d24813cb504d
+ 4985  cd code
+ 4986  mkdir docker-nginx-vhost
+ 4987  cd docker-nginx-vhost
+ 4988  git init
+ 4989  vi README.md
+ 4990  git add .
+ 4991  git commit -m
+ 4992  git commit -m "first commit\n"
+ 4993  git push
+ 4994  git remote add origin git@github.com:papercrane55123/docker-nginx-vhost.git
+ 4995  git push
+ 4996  git push --set-upstream origin main
+ 4997  clear
+ 4998  sudo docker ps
+ 4999  sudo docker ps -a
+ 5000  sudo docker rm c0eb25ebc1c3 d24813cb504d 2d8dd5bae505
+ 5001  sudo docker images
+ 5002  sudo docker rmi 765c43389e00 a2866b175fb8 24d29cbc645f
+ 5003  sudo docker rmi
+ 5004  sudo docker images
+ 5005  clear
+ 5006  sudo docker images
+ 5007  sudo docker rmi nginx
+ 5008  sudo docker images
+ 5009  sudo docker ps -a
+ 5010  sudo docker images
+ 5011  clear
+ 5012  git pull
+ 5013  vi README.md
+ 5014  clrear
+ 5015  clear
+ 5016  git pull
+ 5017  sudo docker pull nginx
+ 5018  sudo docker images
+ 5019  sudo ocker run -itd -p 8002:80 --name serv-a nginx
+ 5020  sudo docker run -itd -p 8002:80 --name serv-a nginx
+ 5021  sudo docker run -itd -p 8003:80 --name serv-b nginx
+ 5022  sudo docker run -itd -p 8001:80 --name lb nginx:latest
+ 5023  sudo docker ps
+ 5024  sudo docker images
+ 5025  ls
+ 5026  mkdir config
+ 5027  ls
+ 5028  vi config/default.conf
+ 5029  git pull
+ 5030  git add .
+ 5031  git commit -m "add nginx conf"
+ 5032  git push
+ 5033  sudo docker exec lb bash
+ 5034  sudo docker exec -it lb bash
+ 5035  cd code
+ 5036  ls
+ 5037  cd docker-nginx-vhost
+ 5038  sudo docker cp docker-nginx-vhost/config/. lb : /etc/nginx/conf.d/ 
+ 5039  $ sudo docker cp config/default.conf lb:/etc/nginx/conf.d/
+ 5040  sudo docker cp config/default.conf lb:/etc/nginx/conf.d/
+ 5041  ls
+ 5042  mkdir lb
+ 5043  mkdir serv-a
+ 5044  mkdir serv-b
+ 5045  mv config lb
+ 5046  ls
+ 5047  tree
+ 5048  sudo docker ps
+ 5049  vi serv-a/index.html
+ 5050  vi serv-b/index.html
+ 5051  vi serv-a/index.html
+ 5052  sudo docker cp serv-a/index.html serv-a:/usr/share/nginx/html/
+ 5053  sudo docker cp serv-b/index.html serv-b:/usr/share/nginx/html/
+ 5054  sudo docker exec -it serv-b bash
+ 5055  tree
+ 5056  sudo docker restart lb
+ 5057  sudo docker ps
+ 5058  sudo docker logs lb
+ 5059  sudo docker --tail logs lb
+ 5060  sudo docker --tails logs lb
+ 5061  git status
+ 5062  git pull
+ 5063  git add .
+ 5064  git commit -m "[emerg] 1#1: host not found in upstream "serv-a:80""
+ 5065  git push
+ 5066  git pull
+ 5067  git push
+ 5068  ifconfig
+ 5069  git pull origin main
+ 5070  vi README.md
+ 5071  sudo docker network ls
+ 5072  docker network create
+ 5073  sudo  docker network crea\nte
+ 5074  sudo  docker network create abc
+ 5075  sudo docker network ls
+ 5076  sudo docker network inspect abc
+ 5077  sudo docker network inspect host
+ 5078  git push origin main
+ 5079  git pull origin main\ngit push origin main
+ 5080  git config pull.rebase false
+ 5081  git pull
+ 5082  vi README.md
+ 5083  git push
+ 5084  docker
+ 5085  clear
+ 5086  PS1="$ "
+ 5087  exit
+ 5088  sudo docker inspect serv-b
+ 5089  cd temp
+ 5090  sudo docker container inspect serv-b > serv-b.container-inspect
+ 5091  ls
+ 5092  code serv-b.container-inspect
+ 5093  sudo docker exec -it serv-b bash
+ 5094  sudo docker network
+ 5095  sudo docker network ls
+ 5096  sudo docker network inspect abc
+ 5097  sudo docker network connect abc serv-a
+ 5098  sudo docker network connect abc serv-b
+ 5099  sudo docker network connect abc lb
+ 5100  # 이 세 컨테이너를 하나의 네트워크에 묶었음
+ 5101  # 서로 접근 가능하도록
+ 5102  sudo docker network inspect abc
+ 5103  sudo docker start lb
+ 5104  sudo docker ps
+ 5105  sudo docker network inspect abc
+ 5106  sudo docker logs lb
+ 5107  sudo docker logs lb | tail -n 10
+ 5108  sudo docker logs lb | tail -f 10
+ 5109  sudo docker logs lb | tail -f
+ 5110  sudo docker logs lb | tail -f10
+ 5111  sudo docker logs lb | tail -f
+ 5112  sudo docker network inspect abc
+ 5113  sudo docker exec -it serv-a bash
+ 5114  sudo docker exec -it serv-b bash
+ 5115  cd
+ 5116  sudo docker stop serv-a
+ 5117  sudo docker start serv-a
+ 5118  sudo docker ps
+ 5119  sudo docker images
+ 5120  sudo docker stop serv-a
+ 5121  sudo docker ps
+ 5122  sudo docker rm c2f91fe6fecb
+ 5123  sudo docker ps
+ 5124  sudo docker -itd --name serv-a nginx
+ 5125  sudo docker -itd -p :80 --name serv-a nginx
+ 5126  sudo docker -itd -p 80 --name serv-a nginx
+ 5127  sudo docker -itd -p 8002:80 --name serv-a nginx
+ 5128  sudo docker run -itd --name serv-a nginx
+ 5129  sudo docker ps
+ 5130  ls
+ 5131  cd code/docker-nginx-vhost
+ 5132  ls
+ 5133  cd serv-a
+ 5134  ls
+ 5135  view index.html
+ 5136  pwd
+ 5137  sudo docker cp serv-a/index.html serv-a:/usr/share/nginx/html/
+ 5138  sudo docker cp serv-a/index.html serv-a:/usr/share/nginx/html
+ 5139  sudo docker exec -it serv-a bash
+ 5140  sudo docker cp /home/wsl/code/docker-nginx-vhost/serv-a/index.html serv-a:/usr/share/nginx/html
+ 5141  sudo docker network inspect abc
+ 5142  sudo docker network connect abc serv-a
+ 5143  sudo docker network inspect abc
+ 5144  sudo docker ps
+ 5145  sudo docker commit 88b74cfa3b8c serv-b:0.1.0
+ 5146  sudo docker images
+ 5147  cd ..
+ 5148  sudo docker stop serv-b
+ 5149  sudo docker rm serv-b
+ 5150  sudo docker sudo docker run -itd -p 8003:80 --name serv-b nginx
+ 5151  sudo docker run -itd --name serv-b serv-b:0.1.0
+ 5152  sudo docker ps
+ 5153  sudo docker network inspect abc
+ 5154  sudo docker network connect serv-b
+ 5155  sudo docker network connect abc serv-b
+ 5156  curl http://localhost:8001/
+ 5157  sudo docker network inspect abc
+ 5158  cd code/docker-nginx-vhost
+ 5159  ls
+ 5160  mkdir nginx
+ 5161  cd nginx
+ 5162  pwd
+ 5163  vi Dockerfile
+ 5164  git pull
+ 5165  sudo docker build -t nginx-my-build:0.1.0
+ 5166  # sudo docker build -t nginx-my-build:0.1.0 .
+ 5167  # sudo docker build -t nginx-my-build:0.1.0 -f Dockerfile 하면 원하는 파일을 읽을 수 있음
+ 5168  # sudo docker build -t nginx-my-build:0.1.0 .
+ 5169  sudo docker build -t nginx-my-build:0.1.0 .
+ 5170  cd ..
+ 5171  cd serv-a
+ 5172  ls
+ 5173  vi Dockerfile
+ 5174  sudo docker ps
+ 5175  sudo docker build -t ng-s-1:0.1.0 -f Dockerfile
+ 5176  sudo docker build -t ng-s-1:0.1.0 .
+ 5177  sudo docker images
+ 5178  # 잘 만들어졌음을 확인할 수 있다.
+ 5179  sudo docker run -d --name s1-1 -p 9001:80 53a4be960e6c
+ 5180  sudo docker ps 
+ 5181  # 웹 페이지도 잘 출력됨을 알 수 있다.
+ 5182  cd ..
+ 5183  cd serv-b
+ 5184  cp ../serv-a/Dockerfile .
+ 5185  ls
+ 5186  vi Dockerfile
+ 5187  sudo docker build -t n-s-2:0.1.0
+ 5188  sudo docker build -t n-s-2:0.1.0 -f Dockerfile .
+ 5189  sudo docker ps
+ 5190  sudo docker images
+ 5191  sudo docker run -d --name s2-1 -p 9052:80 fc2fb5d4f54f
+ 5192  cd ..
+ 5193  git branch 0.1.0/Dockerfile
+ 5194  git checkout 0.1.0/Dockerfile
+ 5195  git pull
+ 5196  git add .
+ 5197  vi README.md
+ 5198  git commit -a
+ 5199  git push
+ 5200  git push --set-upstream origin 0.1.0/Dockerfile
+ 5201  ls
+ 5202  cd serv-a
+ 5203  sudo docker ps
+ 5204  sudo docker stop 4620690650cf 3f28d3682307 a6c0d5ea90f6 e8b986b03de4 772a8271b64f
+ 5205  sudo docker rm 4620690650cf  3f28d3682307 a6c0d5ea90f6 e8b986b03de4 772a8271b64f
+ 5206  sudo docker ps
+ 5207  sudo docker ps -a
+ 5208  sudo images
+ 5209  sudo docker images
+ 5210  sudo docker rmi fc2fb5d4f54f 53a4be960e6c 35397568d8e3 247f7abff9f7
+ 5211  sudo docker images
+ 5212  cd code
+ 5213  ls
+ 5214  cd docker-nginx-vhost
+ 5215  tree
+ 5216  view nginx/Dockerfile
+ 5217  cp serv-a/Dockerfile lb/config/.
+ 5218  tree
+ 5219  vi lb/config/default.conf
+ 5220  mv lb/config/Dockerfile lb
+ 5221  tree
+ 5222  vi lb/Dockerfile
+ 5223  cd code/docker-nginx-vhost
+ 5224  ls
+ 5225  cd lb
+ 5226  ls
+ 5227  cd config
+ 5228  ls
+ 5229  pwd
+ 5230  sudo docker build -t sample:0.1.0 .
+ 5231  cd lb
+ 5232  ls
+ 5233  sudo docker build -t lb:0.1.0 .
+ 5234  vi Dockerfile
+ 5235  ls
+ 5236  cd ..
+ 5237  ls
+ 5238  sudo docker build -t lb:0.1.0 .
+ 5239  vi Dockerfile
+ 5240  sudo docker build -t lb:0.1.0 .
+ 5241  vi Dockerfile
+ 5242  sudo docker build -t lb:0.1.0 .
+ 5243  vi Dockerfile
+ 5244  sudo docker build -t lb:0.1.0 .
+ 5245  vi Dockerfile
+ 5246  sudo docker build -t lb:0.1.0 .
+ 5247  ls
+ 5248  mv Dockerfile config/
+ 5249  ls
+ 5250  cd config
+ 5251  ls
+ 5252  vi Dockerfile
+ 5253  sudo docker build -t lb:0.1.0 .
+ 5254  cd ..
+ 5255  ls
+ 5256  cd serv-
+ 5257  cd serv-a
+ 5258  sudo docker build -t serv-a:0.1.0
+ 5259  sudo docker build -t serv-a:0.1.0 .
+ 5260  cd ..
+ 5261  ls
+ 5262  cd serv-b
+ 5263  ls
+ 5264  sudo docker build -t serv-b:0.1.0 .
+ 5265  sudo docker images
+ 5266  sudo docker run -d -p 8001:80 --name lb lb:0.1.0
+ 5267  sudo docker ps
+ 5268  sudo docker ps -a
+ 5269  sudo docker start lb
+ 5270  sudo docker ps
+ 5271  sudo docker run -d --name serv-a serv-a:0.1.0
+ 5272  sudo docker run -d --name serv-b serv-b:0.1.0
+ 5273  sudo docker ps
+ 5274  sudo docker start lb
+ 5275  sudo docker ps
+ 5276  sudo docker network create connect-lb
+ 5277  sudo docker network ls
+ 5278  sudo docker network inspect connect-lb
+ 5279  sudo docker network connect lb serv-a serv-b
+ 5280  sudo docker network connect lb 
+ 5281  sudo docker network connect connect-lb lb serv-a serv-b
+ 5282  sudo docker network connect connect-lb lb
+ 5283  sudo docker network connect connect-lb serv-a
+ 5284  sudo docker network connect connect-lb serv-b
+ 5285  sudo docker ps
+ 5286  sudo docker start lb
+ 5287  sudo docker ps
+ 5288  cd ..
+ 5289  tree
+ 5290  vi serv-a/Dockerfile
+ 5291  vi lb/config/Dockerfile
+ 5292  sudo docker images
+ 5293  sudo docker ps
+ 5294  curl http://localhost:8001
+ 5295  sudo docker network ls
+ 5296  sudo docker network inspect connect-lb 
+ 5297  sudo docker ps
+ 5298  sudo docker exec -it serv-b bash
+ 5299  curl http://localhost:8001
+ 5300  ls
+ 5301  vi lb/config/Dockerfile
+ 5302  ls
+ 5303  cd code
+ 5304  ls
+ 5305  cd docker-nginx-vhost
+ 5306  ls
+ 5307  git pull
+ 5308  git add .
+ 5309  git commit -m "24.02.14"
+ 5310  git push
+ 5311  cd code
+ 5312  ls
+ 5313  git clone git@github.com:papercrane55123/tomcat.git
+ 5314  htop
+ 5315  git branch 20.0.0/super-tomcat
+ 5316  ls
+ 5317  cd tomcat
+ 5318  ls
+ 5319  git branch 20.0.0/super-tomcat
+ 5320  git checkout 20.0.0/super-tomcat
+ 5321  vi
+ 5322  ls
+ 5323  vi README.md
+ 5324  ls
+ 5325  cd code
+ 5326  ls
+ 5327  cd docker-nginx-vhost
+ 5328  git pull
+ 5329  git add .
+ 5330  git commit -a
+ 5331  git push
+ 5332  git branch 20.0.1/super-tomcat
+ 5333  git checkout 20.0.1/super-tomcat
+ 5334  vi re
+ 5335  vi README.md
+ 5336  git add .
+ 5337  git commit -m "commit"
+ 5338  git push
+ 5339  git push --set-upstream origin 20.0.1/super-tomcat
+ 5340  cd
+ 5341  cd /var/run/docker
+ 5342  sudo cd /var/run/docker/
+ 5343  sudo cd /var/run/docker
+ 5344  sudo cd /var
+ 5345  sudo cd var
+ 5346  sudo cd -D /var
+ 5347  sudo cd -D var
+ 5348  cd  /var/run/
+ 5349  ls
+ 5350  cd
+ 5351  ls
+ 5352  clear
+ 5353  cd code
+ 5354  ls
+ 5355  cd docker-nginx-vhost
+ 5356  git branch 0.2.0/ubuntu-nginx
+ 5357  git checkout 0.2.0/ubuntu-nginx
+ 5358  cd ..
+ 5359  mkdir docker-ubuntu-nginx
+ 5360  cd docker-ubuntu-nginx
+ 5361  git init
+ 5362  vi README.md
+ 5363  git add .
+ 5364  git commit -m "first commit"
+ 5365  git push
+ 5366  git remote add origin git@github.com:papercrane55123/docker-ubuntu-nginx.git
+ 5367  git push
+ 5368  git checkout 0.2.0/ubuntu-nginx
+ 5369  vi README.md
+ 5370  git add .
+ 5371  # sudo docker ps -a -q
+ 5372  git commit -a
+ 5373  git push
+ 5374  git push --set-upstream origin 0.2.0/ubuntu-nginx
+ 5375  sudo docker ps -a
+ 5376  sudo docker ps -a -q
+ 5377  sudo docker ps -a
+ 5378  sudo docker ps
+ 5379  sudo docker ps  rm -a
+ 5380  sudo docker ps -a -q
+ 5381  sudo docker ps -a
+ 5382  sudo docker ps -qa
+ 5383  sudo docker ps -a
+ 5384  sudo docker rm $(docker ps -qa)
+ 5385  sudo docker rm -f $(sudo docker ps -qa)
+ 5386  sudo docker ps -a
+ 5387  sudo docker images
+ 5388  sudo docker rm $(sudo docker images)
+ 5389  sudo docker rm $(sudo docker images -qa)
+ 5390  sudo docker rm -f $(sudo docker images -qa)
+ 5391  sudo docker images
+ 5392  sudo docker rmi $(sudo docker images -qa)
+ 5393  sudo docker images
+ 5394  sudo docker pull ubuntu
+ 5395  sudo docker images
+ 5396  sudo docker run -d --name ubuntu-nginx ubuntu
+ 5397  sudo docker ps
+ 5398  sudo docker ps -a
+ 5399  sudo docker start ubuntu-nginx
+ 5400  sudo docker ps
+ 5401  sudo docker ps -a
+ 5402  sudo docker exec -it ubuntu-nginx bash
+ 5403  sudo docker run -d -p 8001:80 --name ubuntu-nginx2 ubuntu
+ 5404  sudo docker ps
+ 5405  sudo docker rm 371914bb8966
+ 5406  sudo docker ps -a
+ 5407  sudo docker rm 4dd5ecd66b73
+ 5408  sudo docker images
+ 5409  sudo docker pull ubuntu:22.04
+ 5410  sudo docker images
+ 5411  sudo docker run -d -it --name ubuntu-nginx fd1d8f58e8ae
+ 5412  sudo docker ps
+ 5413  sudo docker exec -it  ubuntu-nginx bash
+ 5414  sudo docker ps
+ 5415  ls
+ 5416  cd code
+ 5417  ls
+ 5418  cd docker-ubuntu-nginx
+ 5419  ls
+ 5420  cd ..
+ 5421  ls
+ 5422  cd docker-nginx-vhost
+ 5423  ls
+ 5424  tree
+ 5425  cd ..
+ 5426  ls
+ 5427  vi docker-ubuntu-nginx
+ 5428  cd docker-ubuntu-nginx
+ 5429  mkdir ubuntu
+ 5430  ls
+ 5431  vi ubuntu/Dockerfile
+ 5432  ls
+ 5433  cd ubuntu
+ 5434  ls
+ 5435  sudo docker build -t u-n-d:0.1.0
+ 5436  sudo docker build -t u-n-d:0.1.0 .
+ 5437  sudo docker ps -a
+ 5438  sudo docker image
+ 5439  sudo docker images
+ 5440  sudo docker run -it -d --name u-n-d u-n-d:0.1.0
+ 5441  sudo docker ps
+ 5442  sudo docker exec -it u-n-d bash
+ 5443  sudo docker ps
+ 5444  sudo docker stop u-n-d
+ 5445  sudo docker rm u-n-d
+ 5446  sudo docker rmi u-n-d:0.1.0
+ 5447  ls
+ 5448  vi Dockerfile
+ 5449  sudo docker build -t ubuntu-n
+ 5450  sudo docker build -t ubuntu-n:0.1.0 .
+ 5451  vi Dockerfile
+ 5452  sudo docker build -t ubuntu-n:0.1.0 .
+ 5453  vi Dockerfile
+ 5454  sudo docker build -t ubuntu-n:0.1.0 .
+ 5455  vi Dockerfile
+ 5456  sudo docker build -t ubuntu-n:0.1.0 .
+ 5457  vi Dockerfile
+ 5458  sudo docker build -t ubuntu-n:0.1.0 .
+ 5459  vi Dockerfile
+ 5460  sudo docker build -t ubuntu-n:0.1.0 .
+ 5461  vi Dockerfile
+ 5462  sudo docker build -t ubuntu-n:0.1.0 .
+ 5463  vi Dockerfile
+ 5464  sudo docker images
+ 5465  git add .
+ 5466  git commit -m "Dockerfile"
+ 5467  git push
+ 5468  sudo apt install unzip
+ 5469  cd code
+ 5470  ls
+ 5471  mkdir minicrane.blog
+ 5472  ls
+ 5473  cd minicrane.blog
+ 5474  git init
+ 5475  vi README.md
+ 5476  git add .
+ 5477  git commit -m "first"
+ 5478  git push
+ 5479  git remote add origin git@github.com:papercrane55123/minicrane.blog.git
+ 5480  git psuh
+ 5481  git push
+ 5482  git push --set-upstream origin main
+ 5483  git branch 240215.1/
+ 5484  git branch 240215.1/Dockerfile
+ 5485  git checkout 240215.1/Dockerfile
+ 5486  ls
+ 5487  vi ChangeLog.md
+ 5488  git add .
+ 5489  git commit -m "Dockerfile-action"
+ 5490  git push
+ 5491  git push --set-upstream origin 240215.1/Dockerfile
+ 5492  pwd
+ 5493  sudo docker image
+ 5494  sudo docker images
+ 5495  sudo docker ps -a
+ 5496  sudo docker rm 58f998346be2
+ 5497  sudo docker run -dist ubuntu:22.04
+ 5498  sudo docker run -dit ubuntu:22.04
+ 5499  sudo docker ps
+ 5500  vi Dockerfile
+ 5501  cd code
+ 5502  ;s
+ 5503  ls
+ 5504  cd minicrane.blog
+ 5505  ls
+ 5506* sudo docker ps
+ 5507* sudo docker build -t unginx:240215 .
+ 5508  vi Dockerfile
+ 5509* sudo docker ps
+ 5510* sudo docker stop 1405d7dfe553 58f998346be2
+ 5511  sudo docker ps -a
+ 5512* sudo docker ps
+ 5513* sudo docker rm 1405d7dfe553 58f998346be2
+ 5514* sudo docker images
+ 5515* sudo docker rmi f5276794e96c fd1d8f58e8ae
+ 5516* sudo docker rmi f5276794e96c
+ 5517* sudo docker rmi fd1d8f58e8ae
+ 5518* sudo docker ps -a
+ 5519* sudo docker images
+ 5520* sudo docker rmi -f fd1d8f58e8ae
+ 5521* sudo docker images
